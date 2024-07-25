@@ -1,0 +1,45 @@
+{
+  "name": "unity-stack-solutions",
+  "version": "1.0.0",
+  "description": "Unity Stack App",
+  "main": "index.js",
+  "scripts": {
+    "start": "concurrently \"npm run server\" \"npm run client\"",
+    "server": "nodemon index.js",
+    "client": "cd frontend && npm run dev",
+    "dev": "SET NODE_ENV=DEVELOPMENT& nodemon backend/app.js",
+    "prod": "SET NODE_ENV=PRODUCTION& nodemon backend/app.js",
+    "seeder": "node backend/seeder/seeder.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Jinali00/Unity-Stack-Solutions.git"
+  },
+  "author": "Unity Team",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jinali00/Unity-Stack-Solutions/issues"
+  },
+  "homepage": "https://github.com/Jinali00/Unity-Stack-Solutions#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "cron": "^3.1.7",
+    "crypto": "^1.0.1",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "express-validator": "^7.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "moment": "^2.30.1",
+    "mongodb": "^6.8.0",
+    "mongoose": "^8.4.1",
+    "multer": "^1.4.5-lts.1",
+    "nodemailer": "^6.9.14",
+    "razorpay": "^2.9.4",
+    "winston": "^3.13.0"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2",
+    "nodemon": "^3.1.3"
+  }
+}

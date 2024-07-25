@@ -1,0 +1,3812 @@
+[
+	{
+		"name": "Essence Mascara Lash Princess",
+		"price": 9.99,
+		"description": "The Essence Mascara Lash Princess is a popular mascara known for its volumizing and lengthening effects. Achieve dramatic lashes with this long-lasting and cruelty-free formula.",
+		"ratings": 4.94,
+		"images": [
+			{
+				"public_id": "lylwg075ggksi",
+				"url": "https://cdn.dummyjson.com/products/images/beauty/Essence%20Mascara%20Lash%20Princess/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg0752wkyk",
+				"url": "https://cdn.dummyjson.com/products/images/beauty/Essence%20Mascara%20Lash%20Princess/1.png"
+			}
+		],
+		"category": "beauty",
+		"seller": "Essence",
+		"stock": 5,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Eyeshadow Palette with Mirror",
+		"price": 19.99,
+		"description": "The Eyeshadow Palette with Mirror offers a versatile range of eyeshadow shades for creating stunning eye looks. With a built-in mirror, it's convenient for on-the-go makeup application.",
+		"ratings": 3.28,
+		"images": [
+			{
+				"public_id": "lylwg0756i6ok",
+				"url": "https://cdn.dummyjson.com/products/images/beauty/Eyeshadow%20Palette%20with%20Mirror/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg075awxi1",
+				"url": "https://cdn.dummyjson.com/products/images/beauty/Eyeshadow%20Palette%20with%20Mirror/1.png"
+			}
+		],
+		"category": "beauty",
+		"seller": "Glamour Beauty",
+		"stock": 44,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Powder Canister",
+		"price": 14.99,
+		"description": "The Powder Canister is a finely milled setting powder designed to set makeup and control shine. With a lightweight and translucent formula, it provides a smooth and matte finish.",
+		"ratings": 3.82,
+		"images": [
+			{
+				"public_id": "lylwg075wzwma",
+				"url": "https://cdn.dummyjson.com/products/images/beauty/Powder%20Canister/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg0756gv4h",
+				"url": "https://cdn.dummyjson.com/products/images/beauty/Powder%20Canister/1.png"
+			}
+		],
+		"category": "beauty",
+		"seller": "Velvet Touch",
+		"stock": 59,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Red Lipstick",
+		"price": 12.99,
+		"description": "The Red Lipstick is a classic and bold choice for adding a pop of color to your lips. With a creamy and pigmented formula, it provides a vibrant and long-lasting finish.",
+		"ratings": 2.51,
+		"images": [
+			{
+				"public_id": "lylwg07596aop",
+				"url": "https://cdn.dummyjson.com/products/images/beauty/Red%20Lipstick/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg07560ls9",
+				"url": "https://cdn.dummyjson.com/products/images/beauty/Red%20Lipstick/1.png"
+			}
+		],
+		"category": "beauty",
+		"seller": "Chic Cosmetics",
+		"stock": 68,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Red Nail Polish",
+		"price": 8.99,
+		"description": "The Red Nail Polish offers a rich and glossy red hue for vibrant and polished nails. With a quick-drying formula, it provides a salon-quality finish at home.",
+		"ratings": 3.91,
+		"images": [
+			{
+				"public_id": "lylwg0750fdqy",
+				"url": "https://cdn.dummyjson.com/products/images/beauty/Red%20Nail%20Polish/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg075pgmmz",
+				"url": "https://cdn.dummyjson.com/products/images/beauty/Red%20Nail%20Polish/1.png"
+			}
+		],
+		"category": "beauty",
+		"seller": "Nail Couture",
+		"stock": 71,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Calvin Klein CK One",
+		"price": 49.99,
+		"description": "CK One by Calvin Klein is a classic unisex fragrance, known for its fresh and clean scent. It's a versatile fragrance suitable for everyday wear.",
+		"ratings": 4.85,
+		"images": [
+			{
+				"public_id": "lylwg075gvd85",
+				"url": "https://cdn.dummyjson.com/products/images/fragrances/Calvin%20Klein%20CK%20One/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg075f0dsm",
+				"url": "https://cdn.dummyjson.com/products/images/fragrances/Calvin%20Klein%20CK%20One/1.png"
+			},
+			{
+				"public_id": "lylwg0757hz09",
+				"url": "https://cdn.dummyjson.com/products/images/fragrances/Calvin%20Klein%20CK%20One/2.png"
+			},
+			{
+				"public_id": "lylwg075419ie",
+				"url": "https://cdn.dummyjson.com/products/images/fragrances/Calvin%20Klein%20CK%20One/3.png"
+			}
+		],
+		"category": "fragrances",
+		"seller": "Calvin Klein",
+		"stock": 17,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Chanel Coco Noir Eau De",
+		"price": 129.99,
+		"description": "Coco Noir by Chanel is an elegant and mysterious fragrance, featuring notes of grapefruit, rose, and sandalwood. Perfect for evening occasions.",
+		"ratings": 2.76,
+		"images": [
+			{
+				"public_id": "lylwg07592lko",
+				"url": "https://cdn.dummyjson.com/products/images/fragrances/Chanel%20Coco%20Noir%20Eau%20De/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg075m5qb7",
+				"url": "https://cdn.dummyjson.com/products/images/fragrances/Chanel%20Coco%20Noir%20Eau%20De/1.png"
+			},
+			{
+				"public_id": "lylwg075ceq13",
+				"url": "https://cdn.dummyjson.com/products/images/fragrances/Chanel%20Coco%20Noir%20Eau%20De/2.png"
+			},
+			{
+				"public_id": "lylwg075w2x5e",
+				"url": "https://cdn.dummyjson.com/products/images/fragrances/Chanel%20Coco%20Noir%20Eau%20De/3.png"
+			}
+		],
+		"category": "fragrances",
+		"seller": "Chanel",
+		"stock": 41,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Dior J'adore",
+		"price": 89.99,
+		"description": "J'adore by Dior is a luxurious and floral fragrance, known for its blend of ylang-ylang, rose, and jasmine. It embodies femininity and sophistication.",
+		"ratings": 3.31,
+		"images": [
+			{
+				"public_id": "lylwg075gvhcx",
+				"url": "https://cdn.dummyjson.com/products/images/fragrances/Dior%20J'adore/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg075nlq5b",
+				"url": "https://cdn.dummyjson.com/products/images/fragrances/Dior%20J'adore/1.png"
+			},
+			{
+				"public_id": "lylwg075ujdb6",
+				"url": "https://cdn.dummyjson.com/products/images/fragrances/Dior%20J'adore/2.png"
+			},
+			{
+				"public_id": "lylwg075iemh6",
+				"url": "https://cdn.dummyjson.com/products/images/fragrances/Dior%20J'adore/3.png"
+			}
+		],
+		"category": "fragrances",
+		"seller": "Dior",
+		"stock": 91,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Dolce Shine Eau de",
+		"price": 69.99,
+		"description": "Dolce Shine by Dolce & Gabbana is a vibrant and fruity fragrance, featuring notes of mango, jasmine, and blonde woods. It's a joyful and youthful scent.",
+		"ratings": 2.68,
+		"images": [
+			{
+				"public_id": "lylwg075h3gr2",
+				"url": "https://cdn.dummyjson.com/products/images/fragrances/Dolce%20Shine%20Eau%20de/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg075assgu",
+				"url": "https://cdn.dummyjson.com/products/images/fragrances/Dolce%20Shine%20Eau%20de/1.png"
+			},
+			{
+				"public_id": "lylwg075ta1wi",
+				"url": "https://cdn.dummyjson.com/products/images/fragrances/Dolce%20Shine%20Eau%20de/2.png"
+			},
+			{
+				"public_id": "lylwg0750muji",
+				"url": "https://cdn.dummyjson.com/products/images/fragrances/Dolce%20Shine%20Eau%20de/3.png"
+			}
+		],
+		"category": "fragrances",
+		"seller": "Dolce & Gabbana",
+		"stock": 3,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Gucci Bloom Eau de",
+		"price": 79.99,
+		"description": "Gucci Bloom by Gucci is a floral and captivating fragrance, with notes of tuberose, jasmine, and Rangoon creeper. It's a modern and romantic scent.",
+		"ratings": 2.69,
+		"images": [
+			{
+				"public_id": "lylwg0752wpz8",
+				"url": "https://cdn.dummyjson.com/products/images/fragrances/Gucci%20Bloom%20Eau%20de/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg075kwekb",
+				"url": "https://cdn.dummyjson.com/products/images/fragrances/Gucci%20Bloom%20Eau%20de/1.png"
+			},
+			{
+				"public_id": "lylwg0759q1mt",
+				"url": "https://cdn.dummyjson.com/products/images/fragrances/Gucci%20Bloom%20Eau%20de/2.png"
+			},
+			{
+				"public_id": "lylwg075nymq1",
+				"url": "https://cdn.dummyjson.com/products/images/fragrances/Gucci%20Bloom%20Eau%20de/3.png"
+			}
+		],
+		"category": "fragrances",
+		"seller": "Gucci",
+		"stock": 93,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Annibale Colombo Bed",
+		"price": 1899.99,
+		"description": "The Annibale Colombo Bed is a luxurious and elegant bed frame, crafted with high-quality materials for a comfortable and stylish bedroom.",
+		"ratings": 4.14,
+		"images": [
+			{
+				"public_id": "lylwg075lmsgo",
+				"url": "https://cdn.dummyjson.com/products/images/furniture/Annibale%20Colombo%20Bed/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg075wnc1e",
+				"url": "https://cdn.dummyjson.com/products/images/furniture/Annibale%20Colombo%20Bed/1.png"
+			},
+			{
+				"public_id": "lylwg075hwp9e",
+				"url": "https://cdn.dummyjson.com/products/images/furniture/Annibale%20Colombo%20Bed/2.png"
+			},
+			{
+				"public_id": "lylwg075ljguq",
+				"url": "https://cdn.dummyjson.com/products/images/furniture/Annibale%20Colombo%20Bed/3.png"
+			}
+		],
+		"category": "furniture",
+		"seller": "Annibale Colombo",
+		"stock": 47,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Annibale Colombo Sofa",
+		"price": 2499.99,
+		"description": "The Annibale Colombo Sofa is a sophisticated and comfortable seating option, featuring exquisite design and premium upholstery for your living room.",
+		"ratings": 3.08,
+		"images": [
+			{
+				"public_id": "lylwg075vg720",
+				"url": "https://cdn.dummyjson.com/products/images/furniture/Annibale%20Colombo%20Sofa/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg075m2jfz",
+				"url": "https://cdn.dummyjson.com/products/images/furniture/Annibale%20Colombo%20Sofa/1.png"
+			},
+			{
+				"public_id": "lylwg075hrpxy",
+				"url": "https://cdn.dummyjson.com/products/images/furniture/Annibale%20Colombo%20Sofa/2.png"
+			},
+			{
+				"public_id": "lylwg075gjvfi",
+				"url": "https://cdn.dummyjson.com/products/images/furniture/Annibale%20Colombo%20Sofa/3.png"
+			}
+		],
+		"category": "furniture",
+		"seller": "Annibale Colombo",
+		"stock": 16,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Bedside Table African Cherry",
+		"price": 299.99,
+		"description": "The Bedside Table in African Cherry is a stylish and functional addition to your bedroom, providing convenient storage space and a touch of elegance.",
+		"ratings": 4.48,
+		"images": [
+			{
+				"public_id": "lylwg075ys6oy",
+				"url": "https://cdn.dummyjson.com/products/images/furniture/Bedside%20Table%20African%20Cherry/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg0757qkoc",
+				"url": "https://cdn.dummyjson.com/products/images/furniture/Bedside%20Table%20African%20Cherry/1.png"
+			},
+			{
+				"public_id": "lylwg075yuvbx",
+				"url": "https://cdn.dummyjson.com/products/images/furniture/Bedside%20Table%20African%20Cherry/2.png"
+			},
+			{
+				"public_id": "lylwg075prlj6",
+				"url": "https://cdn.dummyjson.com/products/images/furniture/Bedside%20Table%20African%20Cherry/3.png"
+			}
+		],
+		"category": "furniture",
+		"seller": "Furniture Co.",
+		"stock": 16,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Knoll Saarinen Executive Conference Chair",
+		"price": 499.99,
+		"description": "The Knoll Saarinen Executive Conference Chair is a modern and ergonomic chair, perfect for your office or conference room with its timeless design.",
+		"ratings": 4.11,
+		"images": [
+			{
+				"public_id": "lylwg075ll6s0",
+				"url": "https://cdn.dummyjson.com/products/images/furniture/Knoll%20Saarinen%20Executive%20Conference%20Chair/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg075nfpw7",
+				"url": "https://cdn.dummyjson.com/products/images/furniture/Knoll%20Saarinen%20Executive%20Conference%20Chair/1.png"
+			},
+			{
+				"public_id": "lylwg075yzoo2",
+				"url": "https://cdn.dummyjson.com/products/images/furniture/Knoll%20Saarinen%20Executive%20Conference%20Chair/2.png"
+			},
+			{
+				"public_id": "lylwg075xi48r",
+				"url": "https://cdn.dummyjson.com/products/images/furniture/Knoll%20Saarinen%20Executive%20Conference%20Chair/3.png"
+			}
+		],
+		"category": "furniture",
+		"seller": "Knoll",
+		"stock": 47,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Wooden Bathroom Sink With Mirror",
+		"price": 799.99,
+		"description": "The Wooden Bathroom Sink with Mirror is a unique and stylish addition to your bathroom, featuring a wooden sink countertop and a matching mirror.",
+		"ratings": 3.26,
+		"images": [
+			{
+				"public_id": "lylwg0756k3ud",
+				"url": "https://cdn.dummyjson.com/products/images/furniture/Wooden%20Bathroom%20Sink%20With%20Mirror/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg075kc0wh",
+				"url": "https://cdn.dummyjson.com/products/images/furniture/Wooden%20Bathroom%20Sink%20With%20Mirror/1.png"
+			},
+			{
+				"public_id": "lylwg075z53d2",
+				"url": "https://cdn.dummyjson.com/products/images/furniture/Wooden%20Bathroom%20Sink%20With%20Mirror/2.png"
+			},
+			{
+				"public_id": "lylwg075hbpib",
+				"url": "https://cdn.dummyjson.com/products/images/furniture/Wooden%20Bathroom%20Sink%20With%20Mirror/3.png"
+			}
+		],
+		"category": "furniture",
+		"seller": "Bath Trends",
+		"stock": 95,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Apple",
+		"price": 1.99,
+		"description": "Fresh and crisp apples, perfect for snacking or incorporating into various recipes.",
+		"ratings": 2.96,
+		"images": [
+			{
+				"public_id": "lylwg075f24uf",
+				"url": "https://cdn.dummyjson.com/products/images/groceries/Apple/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg075z4i4q",
+				"url": "https://cdn.dummyjson.com/products/images/groceries/Apple/1.png"
+			}
+		],
+		"category": "groceries",
+		"seller": "",
+		"stock": 9,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Beef Steak",
+		"price": 12.99,
+		"description": "High-quality beef steak, great for grilling or cooking to your preferred level of doneness.",
+		"ratings": 2.83,
+		"images": [
+			{
+				"public_id": "lylwg075aly8v",
+				"url": "https://cdn.dummyjson.com/products/images/groceries/Beef%20Steak/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg075rl62m",
+				"url": "https://cdn.dummyjson.com/products/images/groceries/Beef%20Steak/1.png"
+			}
+		],
+		"category": "groceries",
+		"seller": "",
+		"stock": 96,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Cat Food",
+		"price": 8.99,
+		"description": "Nutritious cat food formulated to meet the dietary needs of your feline friend.",
+		"ratings": 2.88,
+		"images": [
+			{
+				"public_id": "lylwg0753segh",
+				"url": "https://cdn.dummyjson.com/products/images/groceries/Cat%20Food/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg075t545x",
+				"url": "https://cdn.dummyjson.com/products/images/groceries/Cat%20Food/1.png"
+			}
+		],
+		"category": "groceries",
+		"seller": "",
+		"stock": 13,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Chicken Meat",
+		"price": 9.99,
+		"description": "Fresh and tender chicken meat, suitable for various culinary preparations.",
+		"ratings": 4.61,
+		"images": [
+			{
+				"public_id": "lylwg07511bvx",
+				"url": "https://cdn.dummyjson.com/products/images/groceries/Chicken%20Meat/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg075khbfm",
+				"url": "https://cdn.dummyjson.com/products/images/groceries/Chicken%20Meat/1.png"
+			},
+			{
+				"public_id": "lylwg075ai513",
+				"url": "https://cdn.dummyjson.com/products/images/groceries/Chicken%20Meat/2.png"
+			}
+		],
+		"category": "groceries",
+		"seller": "",
+		"stock": 69,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Cooking Oil",
+		"price": 4.99,
+		"description": "Versatile cooking oil suitable for frying, sautéing, and various culinary applications.",
+		"ratings": 4.01,
+		"images": [
+			{
+				"public_id": "lylwg07573awd",
+				"url": "https://cdn.dummyjson.com/products/images/groceries/Cooking%20Oil/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg075zkt4p",
+				"url": "https://cdn.dummyjson.com/products/images/groceries/Cooking%20Oil/1.png"
+			}
+		],
+		"category": "groceries",
+		"seller": "",
+		"stock": 22,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Cucumber",
+		"price": 1.49,
+		"description": "Crisp and hydrating cucumbers, ideal for salads, snacks, or as a refreshing side.",
+		"ratings": 4.71,
+		"images": [
+			{
+				"public_id": "lylwg075rfnko",
+				"url": "https://cdn.dummyjson.com/products/images/groceries/Cucumber/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg07551p7s",
+				"url": "https://cdn.dummyjson.com/products/images/groceries/Cucumber/1.png"
+			}
+		],
+		"category": "groceries",
+		"seller": "",
+		"stock": 22,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Dog Food",
+		"price": 10.99,
+		"description": "Specially formulated dog food designed to provide essential nutrients for your canine companion.",
+		"ratings": 2.74,
+		"images": [
+			{
+				"public_id": "lylwg075xi32q",
+				"url": "https://cdn.dummyjson.com/products/images/groceries/Dog%20Food/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg075r3tp0",
+				"url": "https://cdn.dummyjson.com/products/images/groceries/Dog%20Food/1.png"
+			}
+		],
+		"category": "groceries",
+		"seller": "",
+		"stock": 40,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Eggs",
+		"price": 2.99,
+		"description": "Fresh eggs, a versatile ingredient for baking, cooking, or breakfast.",
+		"ratings": 4.46,
+		"images": [
+			{
+				"public_id": "lylwg0756yfpw",
+				"url": "https://cdn.dummyjson.com/products/images/groceries/Eggs/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg075yp0sc",
+				"url": "https://cdn.dummyjson.com/products/images/groceries/Eggs/1.png"
+			}
+		],
+		"category": "groceries",
+		"seller": "",
+		"stock": 10,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Fish Steak",
+		"price": 14.99,
+		"description": "Quality fish steak, suitable for grilling, baking, or pan-searing.",
+		"ratings": 4.83,
+		"images": [
+			{
+				"public_id": "lylwg0751gb0m",
+				"url": "https://cdn.dummyjson.com/products/images/groceries/Fish%20Steak/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg075ggwlk",
+				"url": "https://cdn.dummyjson.com/products/images/groceries/Fish%20Steak/1.png"
+			}
+		],
+		"category": "groceries",
+		"seller": "",
+		"stock": 99,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Green Bell Pepper",
+		"price": 1.29,
+		"description": "Fresh and vibrant green bell pepper, perfect for adding color and flavor to your dishes.",
+		"ratings": 4.28,
+		"images": [
+			{
+				"public_id": "lylwg075acaxn",
+				"url": "https://cdn.dummyjson.com/products/images/groceries/Green%20Bell%20Pepper/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg075ew5ad",
+				"url": "https://cdn.dummyjson.com/products/images/groceries/Green%20Bell%20Pepper/1.png"
+			}
+		],
+		"category": "groceries",
+		"seller": "",
+		"stock": 89,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Green Chili Pepper",
+		"price": 0.99,
+		"description": "Spicy green chili pepper, ideal for adding heat to your favorite recipes.",
+		"ratings": 4.43,
+		"images": [
+			{
+				"public_id": "lylwg075dr517",
+				"url": "https://cdn.dummyjson.com/products/images/groceries/Green%20Chili%20Pepper/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg075n94i6",
+				"url": "https://cdn.dummyjson.com/products/images/groceries/Green%20Chili%20Pepper/1.png"
+			}
+		],
+		"category": "groceries",
+		"seller": "",
+		"stock": 8,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Honey Jar",
+		"price": 6.99,
+		"description": "Pure and natural honey in a convenient jar, perfect for sweetening beverages or drizzling over food.",
+		"ratings": 3.5,
+		"images": [
+			{
+				"public_id": "lylwg075a1jnd",
+				"url": "https://cdn.dummyjson.com/products/images/groceries/Honey%20Jar/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg075yh8ak",
+				"url": "https://cdn.dummyjson.com/products/images/groceries/Honey%20Jar/1.png"
+			}
+		],
+		"category": "groceries",
+		"seller": "",
+		"stock": 25,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Ice Cream",
+		"price": 5.49,
+		"description": "Creamy and delicious ice cream, available in various flavors for a delightful treat.",
+		"ratings": 3.77,
+		"images": [
+			{
+				"public_id": "lylwg07579bxa",
+				"url": "https://cdn.dummyjson.com/products/images/groceries/Ice%20Cream/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg075fmzi9",
+				"url": "https://cdn.dummyjson.com/products/images/groceries/Ice%20Cream/1.png"
+			},
+			{
+				"public_id": "lylwg0753robr",
+				"url": "https://cdn.dummyjson.com/products/images/groceries/Ice%20Cream/2.png"
+			},
+			{
+				"public_id": "lylwg075vyyb3",
+				"url": "https://cdn.dummyjson.com/products/images/groceries/Ice%20Cream/3.png"
+			},
+			{
+				"public_id": "lylwg0753ofhy",
+				"url": "https://cdn.dummyjson.com/products/images/groceries/Ice%20Cream/4.png"
+			}
+		],
+		"category": "groceries",
+		"seller": "",
+		"stock": 76,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Juice",
+		"price": 3.99,
+		"description": "Refreshing fruit juice, packed with vitamins and great for staying hydrated.",
+		"ratings": 3.41,
+		"images": [
+			{
+				"public_id": "lylwg075om5ws",
+				"url": "https://cdn.dummyjson.com/products/images/groceries/Juice/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg07570205",
+				"url": "https://cdn.dummyjson.com/products/images/groceries/Juice/1.png"
+			}
+		],
+		"category": "groceries",
+		"seller": "",
+		"stock": 99,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Kiwi",
+		"price": 2.49,
+		"description": "Nutrient-rich kiwi, perfect for snacking or adding a tropical twist to your dishes.",
+		"ratings": 4.37,
+		"images": [
+			{
+				"public_id": "lylwg0758kzd6",
+				"url": "https://cdn.dummyjson.com/products/images/groceries/Kiwi/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg075yblda",
+				"url": "https://cdn.dummyjson.com/products/images/groceries/Kiwi/1.png"
+			}
+		],
+		"category": "groceries",
+		"seller": "",
+		"stock": 1,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Lemon",
+		"price": 0.79,
+		"description": "Zesty and tangy lemons, versatile for cooking, baking, or making refreshing beverages.",
+		"ratings": 4.25,
+		"images": [
+			{
+				"public_id": "lylwg075whbxv",
+				"url": "https://cdn.dummyjson.com/products/images/groceries/Lemon/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg075iujvk",
+				"url": "https://cdn.dummyjson.com/products/images/groceries/Lemon/1.png"
+			}
+		],
+		"category": "groceries",
+		"seller": "",
+		"stock": 0,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Milk",
+		"price": 3.49,
+		"description": "Fresh and nutritious milk, a staple for various recipes and daily consumption.",
+		"ratings": 3.14,
+		"images": [
+			{
+				"public_id": "lylwg075q8u62",
+				"url": "https://cdn.dummyjson.com/products/images/groceries/Milk/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg075o9zk8",
+				"url": "https://cdn.dummyjson.com/products/images/groceries/Milk/1.png"
+			}
+		],
+		"category": "groceries",
+		"seller": "",
+		"stock": 57,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Mulberry",
+		"price": 4.99,
+		"description": "Sweet and juicy mulberries, perfect for snacking or adding to desserts and cereals.",
+		"ratings": 3.19,
+		"images": [
+			{
+				"public_id": "lylwg07586p1e",
+				"url": "https://cdn.dummyjson.com/products/images/groceries/Mulberry/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg0758uxnb",
+				"url": "https://cdn.dummyjson.com/products/images/groceries/Mulberry/1.png"
+			}
+		],
+		"category": "groceries",
+		"seller": "",
+		"stock": 79,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Nescafe Coffee",
+		"price": 7.99,
+		"description": "Quality coffee from Nescafe, available in various blends for a rich and satisfying cup.",
+		"ratings": 2.54,
+		"images": [
+			{
+				"public_id": "lylwg0758a6kw",
+				"url": "https://cdn.dummyjson.com/products/images/groceries/Nescafe%20Coffee/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg075tghy4",
+				"url": "https://cdn.dummyjson.com/products/images/groceries/Nescafe%20Coffee/1.png"
+			}
+		],
+		"category": "groceries",
+		"seller": "",
+		"stock": 22,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Potatoes",
+		"price": 2.29,
+		"description": "Versatile and starchy potatoes, great for roasting, mashing, or as a side dish.",
+		"ratings": 3.82,
+		"images": [
+			{
+				"public_id": "lylwg07591c2a",
+				"url": "https://cdn.dummyjson.com/products/images/groceries/Potatoes/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg07592efh",
+				"url": "https://cdn.dummyjson.com/products/images/groceries/Potatoes/1.png"
+			}
+		],
+		"category": "groceries",
+		"seller": "",
+		"stock": 8,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Protein Powder",
+		"price": 19.99,
+		"description": "Nutrient-packed protein powder, ideal for supplementing your diet with essential proteins.",
+		"ratings": 3.91,
+		"images": [
+			{
+				"public_id": "lylwg075cf2hd",
+				"url": "https://cdn.dummyjson.com/products/images/groceries/Protein%20Powder/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg075v6k2m",
+				"url": "https://cdn.dummyjson.com/products/images/groceries/Protein%20Powder/1.png"
+			}
+		],
+		"category": "groceries",
+		"seller": "",
+		"stock": 65,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Red Onions",
+		"price": 1.99,
+		"description": "Flavorful and aromatic red onions, perfect for adding depth to your savory dishes.",
+		"ratings": 4.08,
+		"images": [
+			{
+				"public_id": "lylwg075qkrhz",
+				"url": "https://cdn.dummyjson.com/products/images/groceries/Red%20Onions/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg0758zb52",
+				"url": "https://cdn.dummyjson.com/products/images/groceries/Red%20Onions/1.png"
+			}
+		],
+		"category": "groceries",
+		"seller": "",
+		"stock": 86,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Rice",
+		"price": 5.99,
+		"description": "High-quality rice, a staple for various cuisines and a versatile base for many dishes.",
+		"ratings": 3.94,
+		"images": [
+			{
+				"public_id": "lylwg075bfsfo",
+				"url": "https://cdn.dummyjson.com/products/images/groceries/Rice/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg075cgc0d",
+				"url": "https://cdn.dummyjson.com/products/images/groceries/Rice/1.png"
+			}
+		],
+		"category": "groceries",
+		"seller": "",
+		"stock": 49,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Soft Drinks",
+		"price": 1.99,
+		"description": "Assorted soft drinks in various flavors, perfect for refreshing beverages.",
+		"ratings": 4.59,
+		"images": [
+			{
+				"public_id": "lylwg07512rd2",
+				"url": "https://cdn.dummyjson.com/products/images/groceries/Soft%20Drinks/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg0758kdxg",
+				"url": "https://cdn.dummyjson.com/products/images/groceries/Soft%20Drinks/1.png"
+			}
+		],
+		"category": "groceries",
+		"seller": "",
+		"stock": 78,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Strawberry",
+		"price": 3.99,
+		"description": "Sweet and succulent strawberries, great for snacking, desserts, or blending into smoothies.",
+		"ratings": 4.5,
+		"images": [
+			{
+				"public_id": "lylwg075iv4pn",
+				"url": "https://cdn.dummyjson.com/products/images/groceries/Strawberry/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg075mgzsr",
+				"url": "https://cdn.dummyjson.com/products/images/groceries/Strawberry/1.png"
+			}
+		],
+		"category": "groceries",
+		"seller": "",
+		"stock": 9,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Tissue Paper Box",
+		"price": 2.49,
+		"description": "Convenient tissue paper box for everyday use, providing soft and absorbent tissues.",
+		"ratings": 4.55,
+		"images": [
+			{
+				"public_id": "lylwg075ispah",
+				"url": "https://cdn.dummyjson.com/products/images/groceries/Tissue%20Paper%20Box/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg075u18xu",
+				"url": "https://cdn.dummyjson.com/products/images/groceries/Tissue%20Paper%20Box/1.png"
+			},
+			{
+				"public_id": "lylwg075fkk51",
+				"url": "https://cdn.dummyjson.com/products/images/groceries/Tissue%20Paper%20Box/2.png"
+			}
+		],
+		"category": "groceries",
+		"seller": "",
+		"stock": 97,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Water",
+		"price": 0.99,
+		"description": "Pure and refreshing bottled water, essential for staying hydrated throughout the day.",
+		"ratings": 2.93,
+		"images": [
+			{
+				"public_id": "lylwg075ribko",
+				"url": "https://cdn.dummyjson.com/products/images/groceries/Water/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg075yf5us",
+				"url": "https://cdn.dummyjson.com/products/images/groceries/Water/1.png"
+			}
+		],
+		"category": "groceries",
+		"seller": "",
+		"stock": 95,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Decoration Swing",
+		"price": 59.99,
+		"description": "The Decoration Swing is a charming addition to your home decor. Crafted with intricate details, it adds a touch of elegance and whimsy to any room.",
+		"ratings": 3.56,
+		"images": [
+			{
+				"public_id": "lylwg0758nlbg",
+				"url": "https://cdn.dummyjson.com/products/images/home-decoration/Decoration%20Swing/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg075tchsj",
+				"url": "https://cdn.dummyjson.com/products/images/home-decoration/Decoration%20Swing/1.png"
+			},
+			{
+				"public_id": "lylwg075zxp4g",
+				"url": "https://cdn.dummyjson.com/products/images/home-decoration/Decoration%20Swing/2.png"
+			},
+			{
+				"public_id": "lylwg07591aey",
+				"url": "https://cdn.dummyjson.com/products/images/home-decoration/Decoration%20Swing/3.png"
+			}
+		],
+		"category": "home-decoration",
+		"seller": "",
+		"stock": 62,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Family Tree Photo Frame",
+		"price": 29.99,
+		"description": "The Family Tree Photo Frame is a sentimental and stylish way to display your cherished family memories. With multiple photo slots, it tells the story of your loved ones.",
+		"ratings": 3.84,
+		"images": [
+			{
+				"public_id": "lylwg0755wps9",
+				"url": "https://cdn.dummyjson.com/products/images/home-decoration/Family%20Tree%20Photo%20Frame/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg075tzmhg",
+				"url": "https://cdn.dummyjson.com/products/images/home-decoration/Family%20Tree%20Photo%20Frame/1.png"
+			}
+		],
+		"category": "home-decoration",
+		"seller": "",
+		"stock": 34,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "House Showpiece Plant",
+		"price": 39.99,
+		"description": "The House Showpiece Plant is an artificial plant that brings a touch of nature to your home without the need for maintenance. It adds greenery and style to any space.",
+		"ratings": 3.61,
+		"images": [
+			{
+				"public_id": "lylwg07583dg2",
+				"url": "https://cdn.dummyjson.com/products/images/home-decoration/House%20Showpiece%20Plant/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg075ftb9i",
+				"url": "https://cdn.dummyjson.com/products/images/home-decoration/House%20Showpiece%20Plant/1.png"
+			},
+			{
+				"public_id": "lylwg075gluhq",
+				"url": "https://cdn.dummyjson.com/products/images/home-decoration/House%20Showpiece%20Plant/2.png"
+			},
+			{
+				"public_id": "lylwg075a3yi2",
+				"url": "https://cdn.dummyjson.com/products/images/home-decoration/House%20Showpiece%20Plant/3.png"
+			}
+		],
+		"category": "home-decoration",
+		"seller": "",
+		"stock": 89,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Plant Pot",
+		"price": 14.99,
+		"description": "The Plant Pot is a stylish container for your favorite plants. With a sleek design, it complements your indoor or outdoor garden, adding a modern touch to your plant display.",
+		"ratings": 3.33,
+		"images": [
+			{
+				"public_id": "lylwg0750bt8p",
+				"url": "https://cdn.dummyjson.com/products/images/home-decoration/Plant%20Pot/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg075pfzh3",
+				"url": "https://cdn.dummyjson.com/products/images/home-decoration/Plant%20Pot/1.png"
+			},
+			{
+				"public_id": "lylwg075z79xv",
+				"url": "https://cdn.dummyjson.com/products/images/home-decoration/Plant%20Pot/2.png"
+			},
+			{
+				"public_id": "lylwg0751zydt",
+				"url": "https://cdn.dummyjson.com/products/images/home-decoration/Plant%20Pot/3.png"
+			},
+			{
+				"public_id": "lylwg0759fv9x",
+				"url": "https://cdn.dummyjson.com/products/images/home-decoration/Plant%20Pot/4.png"
+			}
+		],
+		"category": "home-decoration",
+		"seller": "",
+		"stock": 70,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Table Lamp",
+		"price": 49.99,
+		"description": "The Table Lamp is a functional and decorative lighting solution for your living space. With a modern design, it provides both ambient and task lighting, enhancing the atmosphere.",
+		"ratings": 4.56,
+		"images": [
+			{
+				"public_id": "lylwg075jbq7p",
+				"url": "https://cdn.dummyjson.com/products/images/home-decoration/Table%20Lamp/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg075n16q4",
+				"url": "https://cdn.dummyjson.com/products/images/home-decoration/Table%20Lamp/1.png"
+			}
+		],
+		"category": "home-decoration",
+		"seller": "",
+		"stock": 84,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Bamboo Spatula",
+		"price": 7.99,
+		"description": "The Bamboo Spatula is a versatile kitchen tool made from eco-friendly bamboo. Ideal for flipping, stirring, and serving various dishes.",
+		"ratings": 4.4,
+		"images": [
+			{
+				"public_id": "lylwg075tcmpb",
+				"url": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Bamboo%20Spatula/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg0753btyi",
+				"url": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Bamboo%20Spatula/1.png"
+			}
+		],
+		"category": "kitchen-accessories",
+		"seller": "",
+		"stock": 0,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Black Aluminium Cup",
+		"price": 5.99,
+		"description": "The Black Aluminium Cup is a stylish and durable cup suitable for both hot and cold beverages. Its sleek black design adds a modern touch to your drinkware collection.",
+		"ratings": 3.62,
+		"images": [
+			{
+				"public_id": "lylwg075f5azm",
+				"url": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Black%20Aluminium%20Cup/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg0758euoj",
+				"url": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Black%20Aluminium%20Cup/1.png"
+			},
+			{
+				"public_id": "lylwg075u980n",
+				"url": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Black%20Aluminium%20Cup/2.png"
+			}
+		],
+		"category": "kitchen-accessories",
+		"seller": "",
+		"stock": 42,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Black Whisk",
+		"price": 9.99,
+		"description": "The Black Whisk is a kitchen essential for whisking and beating ingredients. Its ergonomic handle and sleek design make it a practical and stylish tool.",
+		"ratings": 2.88,
+		"images": [
+			{
+				"public_id": "lylwg075q37vy",
+				"url": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Black%20Whisk/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg075yceil",
+				"url": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Black%20Whisk/1.png"
+			}
+		],
+		"category": "kitchen-accessories",
+		"seller": "",
+		"stock": 17,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Boxed Blender",
+		"price": 39.99,
+		"description": "The Boxed Blender is a powerful and compact blender perfect for smoothies, shakes, and more. Its convenient design and multiple functions make it a versatile kitchen appliance.",
+		"ratings": 2.73,
+		"images": [
+			{
+				"public_id": "lylwg0758jsel",
+				"url": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Boxed%20Blender/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg075pavaj",
+				"url": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Boxed%20Blender/1.png"
+			},
+			{
+				"public_id": "lylwg075uee9d",
+				"url": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Boxed%20Blender/2.png"
+			},
+			{
+				"public_id": "lylwg075c6jd2",
+				"url": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Boxed%20Blender/3.png"
+			},
+			{
+				"public_id": "lylwg07572vii",
+				"url": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Boxed%20Blender/4.png"
+			}
+		],
+		"category": "kitchen-accessories",
+		"seller": "",
+		"stock": 81,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Carbon Steel Wok",
+		"price": 29.99,
+		"description": "The Carbon Steel Wok is a versatile cooking pan suitable for stir-frying, sautéing, and deep frying. Its sturdy construction ensures even heat distribution for delicious meals.",
+		"ratings": 2.94,
+		"images": [
+			{
+				"public_id": "lylwg075w43ks",
+				"url": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Carbon%20Steel%20Wok/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg0751dd8q",
+				"url": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Carbon%20Steel%20Wok/1.png"
+			}
+		],
+		"category": "kitchen-accessories",
+		"seller": "",
+		"stock": 2,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Chopping Board",
+		"price": 12.99,
+		"description": "The Chopping Board is an essential kitchen accessory for food preparation. Made from durable material, it provides a safe and hygienic surface for cutting and chopping.",
+		"ratings": 4.82,
+		"images": [
+			{
+				"public_id": "lylwg07512m1m",
+				"url": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Chopping%20Board/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg075zrrmr",
+				"url": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Chopping%20Board/1.png"
+			}
+		],
+		"category": "kitchen-accessories",
+		"seller": "",
+		"stock": 53,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Citrus Squeezer Yellow",
+		"price": 8.99,
+		"description": "The Citrus Squeezer in Yellow is a handy tool for extracting juice from citrus fruits. Its vibrant color adds a cheerful touch to your kitchen gadgets.",
+		"ratings": 4.18,
+		"images": [
+			{
+				"public_id": "lylwg075pl5vc",
+				"url": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Citrus%20Squeezer%20Yellow/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg075wcx3q",
+				"url": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Citrus%20Squeezer%20Yellow/1.png"
+			}
+		],
+		"category": "kitchen-accessories",
+		"seller": "",
+		"stock": 59,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Egg Slicer",
+		"price": 6.99,
+		"description": "The Egg Slicer is a convenient tool for slicing boiled eggs evenly. It's perfect for salads, sandwiches, and other dishes where sliced eggs are desired.",
+		"ratings": 2.91,
+		"images": [
+			{
+				"public_id": "lylwg075o4ik4",
+				"url": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Egg%20Slicer/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg0750x7r7",
+				"url": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Egg%20Slicer/1.png"
+			}
+		],
+		"category": "kitchen-accessories",
+		"seller": "",
+		"stock": 30,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Electric Stove",
+		"price": 49.99,
+		"description": "The Electric Stove provides a portable and efficient cooking solution. Ideal for small kitchens or as an additional cooking surface for various culinary needs.",
+		"ratings": 4.84,
+		"images": [
+			{
+				"public_id": "lylwg0750bzbn",
+				"url": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Electric%20Stove/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg07539y27",
+				"url": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Electric%20Stove/1.png"
+			},
+			{
+				"public_id": "lylwg07597yvi",
+				"url": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Electric%20Stove/2.png"
+			},
+			{
+				"public_id": "lylwg075jnd3q",
+				"url": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Electric%20Stove/3.png"
+			},
+			{
+				"public_id": "lylwg075cv8u9",
+				"url": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Electric%20Stove/4.png"
+			}
+		],
+		"category": "kitchen-accessories",
+		"seller": "",
+		"stock": 41,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Fine Mesh Strainer",
+		"price": 9.99,
+		"description": "The Fine Mesh Strainer is a versatile tool for straining liquids and sifting dry ingredients. Its fine mesh ensures efficient filtering for smooth cooking and baking.",
+		"ratings": 3.7,
+		"images": [
+			{
+				"public_id": "lylwg075xobdx",
+				"url": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Fine%20Mesh%20Strainer/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg0758tgoj",
+				"url": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Fine%20Mesh%20Strainer/1.png"
+			}
+		],
+		"category": "kitchen-accessories",
+		"seller": "",
+		"stock": 13,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Fork",
+		"price": 3.99,
+		"description": "The Fork is a classic utensil for various dining and serving purposes. Its durable and ergonomic design makes it a reliable choice for everyday use.",
+		"ratings": 4.18,
+		"images": [
+			{
+				"public_id": "lylwg075bovti",
+				"url": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Fork/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg075wnb0a",
+				"url": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Fork/1.png"
+			}
+		],
+		"category": "kitchen-accessories",
+		"seller": "",
+		"stock": 10,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Glass",
+		"price": 4.99,
+		"description": "The Glass is a versatile and elegant drinking vessel suitable for a variety of beverages. Its clear design allows you to enjoy the colors and textures of your drinks.",
+		"ratings": 3.06,
+		"images": [
+			{
+				"public_id": "lylwg0753r1bi",
+				"url": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Glass/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg07567xqw",
+				"url": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Glass/1.png"
+			}
+		],
+		"category": "kitchen-accessories",
+		"seller": "",
+		"stock": 68,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Grater Black",
+		"price": 10.99,
+		"description": "The Grater in Black is a handy kitchen tool for grating cheese, vegetables, and more. Its sleek design and sharp blades make food preparation efficient and easy.",
+		"ratings": 2.87,
+		"images": [
+			{
+				"public_id": "lylwg075v4t2p",
+				"url": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Grater%20Black/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg075wok2t",
+				"url": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Grater%20Black/1.png"
+			}
+		],
+		"category": "kitchen-accessories",
+		"seller": "",
+		"stock": 80,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Hand Blender",
+		"price": 34.99,
+		"description": "The Hand Blender is a versatile kitchen appliance for blending, pureeing, and mixing. Its compact design and powerful motor make it a convenient tool for various recipes.",
+		"ratings": 3.71,
+		"images": [
+			{
+				"public_id": "lylwg0752qc0k",
+				"url": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Hand%20Blender/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg075enxrf",
+				"url": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Hand%20Blender/1.png"
+			}
+		],
+		"category": "kitchen-accessories",
+		"seller": "",
+		"stock": 8,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Ice Cube Tray",
+		"price": 5.99,
+		"description": "The Ice Cube Tray is a practical accessory for making ice cubes in various shapes. Perfect for keeping your drinks cool and adding a fun element to your beverages.",
+		"ratings": 3.27,
+		"images": [
+			{
+				"public_id": "lylwg075yg3bs",
+				"url": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Ice%20Cube%20Tray/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg075kp52t",
+				"url": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Ice%20Cube%20Tray/1.png"
+			}
+		],
+		"category": "kitchen-accessories",
+		"seller": "",
+		"stock": 81,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Kitchen Sieve",
+		"price": 7.99,
+		"description": "The Kitchen Sieve is a versatile tool for sifting and straining dry and wet ingredients. Its fine mesh design ensures smooth results in your cooking and baking.",
+		"ratings": 2.96,
+		"images": [
+			{
+				"public_id": "lylwg075lr7g8",
+				"url": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Kitchen%20Sieve/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg0752f9we",
+				"url": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Kitchen%20Sieve/1.png"
+			}
+		],
+		"category": "kitchen-accessories",
+		"seller": "",
+		"stock": 33,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Knife",
+		"price": 14.99,
+		"description": "The Knife is an essential kitchen tool for chopping, slicing, and dicing. Its sharp blade and ergonomic handle make it a reliable choice for food preparation.",
+		"ratings": 4.31,
+		"images": [
+			{
+				"public_id": "lylwg075y92yx",
+				"url": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Knife/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg075v4dhj",
+				"url": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Knife/1.png"
+			}
+		],
+		"category": "kitchen-accessories",
+		"seller": "",
+		"stock": 59,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Lunch Box",
+		"price": 12.99,
+		"description": "The Lunch Box is a convenient and portable container for packing and carrying your meals. With compartments for different foods, it's perfect for on-the-go dining.",
+		"ratings": 2.84,
+		"images": [
+			{
+				"public_id": "lylwg075es1jr",
+				"url": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Lunch%20Box/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg075gi1ua",
+				"url": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Lunch%20Box/1.png"
+			}
+		],
+		"category": "kitchen-accessories",
+		"seller": "",
+		"stock": 26,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Microwave Oven",
+		"price": 89.99,
+		"description": "The Microwave Oven is a versatile kitchen appliance for quick and efficient cooking, reheating, and defrosting. Its compact size makes it suitable for various kitchen setups.",
+		"ratings": 2.71,
+		"images": [
+			{
+				"public_id": "lylwg075tryg2",
+				"url": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Microwave%20Oven/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg075yusm1",
+				"url": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Microwave%20Oven/1.png"
+			},
+			{
+				"public_id": "lylwg075de8tl",
+				"url": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Microwave%20Oven/2.png"
+			},
+			{
+				"public_id": "lylwg075rhe2a",
+				"url": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Microwave%20Oven/3.png"
+			},
+			{
+				"public_id": "lylwg075dieid",
+				"url": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Microwave%20Oven/4.png"
+			}
+		],
+		"category": "kitchen-accessories",
+		"seller": "",
+		"stock": 27,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Mug Tree Stand",
+		"price": 15.99,
+		"description": "The Mug Tree Stand is a stylish and space-saving solution for organizing your mugs. Keep your favorite mugs easily accessible and neatly displayed in your kitchen.",
+		"ratings": 4.34,
+		"images": [
+			{
+				"public_id": "lylwg07569ak1",
+				"url": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Mug%20Tree%20Stand/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg0759bliy",
+				"url": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Mug%20Tree%20Stand/1.png"
+			},
+			{
+				"public_id": "lylwg075yjc9j",
+				"url": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Mug%20Tree%20Stand/2.png"
+			}
+		],
+		"category": "kitchen-accessories",
+		"seller": "",
+		"stock": 93,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Pan",
+		"price": 24.99,
+		"description": "The Pan is a versatile and essential cookware item for frying, sautéing, and cooking various dishes. Its non-stick coating ensures easy food release and cleanup.",
+		"ratings": 3.4,
+		"images": [
+			{
+				"public_id": "lylwg075ul6si",
+				"url": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Pan/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg075x2jhl",
+				"url": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Pan/1.png"
+			}
+		],
+		"category": "kitchen-accessories",
+		"seller": "",
+		"stock": 40,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Plate",
+		"price": 3.99,
+		"description": "The Plate is a classic and essential dishware item for serving meals. Its durable and stylish design makes it suitable for everyday use or special occasions.",
+		"ratings": 3.07,
+		"images": [
+			{
+				"public_id": "lylwg0757g771",
+				"url": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Plate/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg075twytu",
+				"url": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Plate/1.png"
+			}
+		],
+		"category": "kitchen-accessories",
+		"seller": "",
+		"stock": 30,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Red Tongs",
+		"price": 6.99,
+		"description": "The Red Tongs are versatile kitchen tongs suitable for various cooking and serving tasks. Their vibrant color adds a pop of excitement to your kitchen utensils.",
+		"ratings": 3.22,
+		"images": [
+			{
+				"public_id": "lylwg075xz8o2",
+				"url": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Red%20Tongs/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg075bezam",
+				"url": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Red%20Tongs/1.png"
+			}
+		],
+		"category": "kitchen-accessories",
+		"seller": "",
+		"stock": 15,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Silver Pot With Glass Cap",
+		"price": 39.99,
+		"description": "The Silver Pot with Glass Cap is a stylish and functional cookware item for boiling, simmering, and preparing delicious meals. Its glass cap allows you to monitor cooking progress.",
+		"ratings": 3.86,
+		"images": [
+			{
+				"public_id": "lylwg075gnokj",
+				"url": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Silver%20Pot%20With%20Glass%20Cap/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg075ngeol",
+				"url": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Silver%20Pot%20With%20Glass%20Cap/1.png"
+			}
+		],
+		"category": "kitchen-accessories",
+		"seller": "",
+		"stock": 37,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Slotted Turner",
+		"price": 8.99,
+		"description": "The Slotted Turner is a kitchen utensil designed for flipping and turning food items. Its slotted design allows excess liquid to drain, making it ideal for frying and sautéing.",
+		"ratings": 3.77,
+		"images": [
+			{
+				"public_id": "lylwg07578c5b",
+				"url": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Slotted%20Turner/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg075wybgz",
+				"url": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Slotted%20Turner/1.png"
+			}
+		],
+		"category": "kitchen-accessories",
+		"seller": "",
+		"stock": 36,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Spice Rack",
+		"price": 19.99,
+		"description": "The Spice Rack is a convenient organizer for your spices and seasonings. Keep your kitchen essentials within reach and neatly arranged with this stylish spice rack.",
+		"ratings": 4.05,
+		"images": [
+			{
+				"public_id": "lylwg075etfwa",
+				"url": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Spice%20Rack/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg075ul44e",
+				"url": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Spice%20Rack/1.png"
+			}
+		],
+		"category": "kitchen-accessories",
+		"seller": "",
+		"stock": 24,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Spoon",
+		"price": 4.99,
+		"description": "The Spoon is a versatile kitchen utensil for stirring, serving, and tasting. Its ergonomic design and durable construction make it an essential tool for every kitchen.",
+		"ratings": 3.98,
+		"images": [
+			{
+				"public_id": "lylwg0751gs43",
+				"url": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Spoon/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg075fvkjg",
+				"url": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Spoon/1.png"
+			}
+		],
+		"category": "kitchen-accessories",
+		"seller": "",
+		"stock": 51,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Tray",
+		"price": 16.99,
+		"description": "The Tray is a functional and decorative item for serving snacks, appetizers, or drinks. Its stylish design makes it a versatile accessory for entertaining guests.",
+		"ratings": 3.2,
+		"images": [
+			{
+				"public_id": "lylwg075mbz3k",
+				"url": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Tray/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg075hl7kp",
+				"url": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Tray/1.png"
+			}
+		],
+		"category": "kitchen-accessories",
+		"seller": "",
+		"stock": 48,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Wooden Rolling Pin",
+		"price": 11.99,
+		"description": "The Wooden Rolling Pin is a classic kitchen tool for rolling out dough for baking. Its smooth surface and sturdy handles make it easy to achieve uniform thickness.",
+		"ratings": 4.99,
+		"images": [
+			{
+				"public_id": "lylwg075f2bjt",
+				"url": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Wooden%20Rolling%20Pin/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg0756is78",
+				"url": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Wooden%20Rolling%20Pin/1.png"
+			}
+		],
+		"category": "kitchen-accessories",
+		"seller": "",
+		"stock": 80,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Yellow Peeler",
+		"price": 5.99,
+		"description": "The Yellow Peeler is a handy tool for peeling fruits and vegetables with ease. Its bright yellow color adds a cheerful touch to your kitchen gadgets.",
+		"ratings": 4.41,
+		"images": [
+			{
+				"public_id": "lylwg0759xng6",
+				"url": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Yellow%20Peeler/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg075a0cak",
+				"url": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Yellow%20Peeler/1.png"
+			}
+		],
+		"category": "kitchen-accessories",
+		"seller": "",
+		"stock": 86,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Apple MacBook Pro 14 Inch Space Grey",
+		"price": 1999.99,
+		"description": "The MacBook Pro 14 Inch in Space Grey is a powerful and sleek laptop, featuring Apple's M1 Pro chip for exceptional performance and a stunning Retina display.",
+		"ratings": 3.13,
+		"images": [
+			{
+				"public_id": "lylwg075bleo0",
+				"url": "https://cdn.dummyjson.com/products/images/laptops/Apple%20MacBook%20Pro%2014%20Inch%20Space%20Grey/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg075uyd7u",
+				"url": "https://cdn.dummyjson.com/products/images/laptops/Apple%20MacBook%20Pro%2014%20Inch%20Space%20Grey/1.png"
+			},
+			{
+				"public_id": "lylwg075qvftk",
+				"url": "https://cdn.dummyjson.com/products/images/laptops/Apple%20MacBook%20Pro%2014%20Inch%20Space%20Grey/2.png"
+			},
+			{
+				"public_id": "lylwg0758aydg",
+				"url": "https://cdn.dummyjson.com/products/images/laptops/Apple%20MacBook%20Pro%2014%20Inch%20Space%20Grey/3.png"
+			}
+		],
+		"category": "laptops",
+		"seller": "Apple",
+		"stock": 39,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Asus Zenbook Pro Dual Screen Laptop",
+		"price": 1799.99,
+		"description": "The Asus Zenbook Pro Dual Screen Laptop is a high-performance device with dual screens, providing productivity and versatility for creative professionals.",
+		"ratings": 3.14,
+		"images": [
+			{
+				"public_id": "lylwg0757en2p",
+				"url": "https://cdn.dummyjson.com/products/images/laptops/Asus%20Zenbook%20Pro%20Dual%20Screen%20Laptop/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg075ttos0",
+				"url": "https://cdn.dummyjson.com/products/images/laptops/Asus%20Zenbook%20Pro%20Dual%20Screen%20Laptop/1.png"
+			},
+			{
+				"public_id": "lylwg075ksbjx",
+				"url": "https://cdn.dummyjson.com/products/images/laptops/Asus%20Zenbook%20Pro%20Dual%20Screen%20Laptop/2.png"
+			},
+			{
+				"public_id": "lylwg075ex1z2",
+				"url": "https://cdn.dummyjson.com/products/images/laptops/Asus%20Zenbook%20Pro%20Dual%20Screen%20Laptop/3.png"
+			}
+		],
+		"category": "laptops",
+		"seller": "Asus",
+		"stock": 38,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Huawei Matebook X Pro",
+		"price": 1399.99,
+		"description": "The Huawei Matebook X Pro is a slim and stylish laptop with a high-resolution touchscreen display, offering a premium experience for users on the go.",
+		"ratings": 4.62,
+		"images": [
+			{
+				"public_id": "lylwg076wgu6j",
+				"url": "https://cdn.dummyjson.com/products/images/laptops/Huawei%20Matebook%20X%20Pro/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg076abmlz",
+				"url": "https://cdn.dummyjson.com/products/images/laptops/Huawei%20Matebook%20X%20Pro/1.png"
+			},
+			{
+				"public_id": "lylwg0766yx5i",
+				"url": "https://cdn.dummyjson.com/products/images/laptops/Huawei%20Matebook%20X%20Pro/2.png"
+			},
+			{
+				"public_id": "lylwg0766t8mq",
+				"url": "https://cdn.dummyjson.com/products/images/laptops/Huawei%20Matebook%20X%20Pro/3.png"
+			}
+		],
+		"category": "laptops",
+		"seller": "Huawei",
+		"stock": 34,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Lenovo Yoga 920",
+		"price": 1099.99,
+		"description": "The Lenovo Yoga 920 is a 2-in-1 convertible laptop with a flexible hinge, allowing you to use it as a laptop or tablet, offering versatility and portability.",
+		"ratings": 2.98,
+		"images": [
+			{
+				"public_id": "lylwg0768ysbv",
+				"url": "https://cdn.dummyjson.com/products/images/laptops/Lenovo%20Yoga%20920/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg076rc1s6",
+				"url": "https://cdn.dummyjson.com/products/images/laptops/Lenovo%20Yoga%20920/1.png"
+			},
+			{
+				"public_id": "lylwg076gqde7",
+				"url": "https://cdn.dummyjson.com/products/images/laptops/Lenovo%20Yoga%20920/2.png"
+			},
+			{
+				"public_id": "lylwg076d5tos",
+				"url": "https://cdn.dummyjson.com/products/images/laptops/Lenovo%20Yoga%20920/3.png"
+			}
+		],
+		"category": "laptops",
+		"seller": "Lenovo",
+		"stock": 71,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "New DELL XPS 13 9300 Laptop",
+		"price": 1499.99,
+		"description": "The New DELL XPS 13 9300 Laptop is a compact and powerful device, featuring a virtually borderless InfinityEdge display and high-end performance for various tasks.",
+		"ratings": 2.98,
+		"images": [
+			{
+				"public_id": "lylwg0768nj4e",
+				"url": "https://cdn.dummyjson.com/products/images/laptops/New%20DELL%20XPS%2013%209300%20Laptop/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg0763jsio",
+				"url": "https://cdn.dummyjson.com/products/images/laptops/New%20DELL%20XPS%2013%209300%20Laptop/1.png"
+			},
+			{
+				"public_id": "lylwg076w59a5",
+				"url": "https://cdn.dummyjson.com/products/images/laptops/New%20DELL%20XPS%2013%209300%20Laptop/2.png"
+			},
+			{
+				"public_id": "lylwg076oft93",
+				"url": "https://cdn.dummyjson.com/products/images/laptops/New%20DELL%20XPS%2013%209300%20Laptop/3.png"
+			}
+		],
+		"category": "laptops",
+		"seller": "Dell",
+		"stock": 18,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Blue & Black Check Shirt",
+		"price": 29.99,
+		"description": "The Blue & Black Check Shirt is a stylish and comfortable men's shirt featuring a classic check pattern. Made from high-quality fabric, it's suitable for both casual and semi-formal occasions.",
+		"ratings": 4.19,
+		"images": [
+			{
+				"public_id": "lylwg076pnmc2",
+				"url": "https://cdn.dummyjson.com/products/images/mens-shirts/Blue%20&%20Black%20Check%20Shirt/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg076m5acb",
+				"url": "https://cdn.dummyjson.com/products/images/mens-shirts/Blue%20&%20Black%20Check%20Shirt/1.png"
+			},
+			{
+				"public_id": "lylwg076gd0mg",
+				"url": "https://cdn.dummyjson.com/products/images/mens-shirts/Blue%20&%20Black%20Check%20Shirt/2.png"
+			},
+			{
+				"public_id": "lylwg0768o6xi",
+				"url": "https://cdn.dummyjson.com/products/images/mens-shirts/Blue%20&%20Black%20Check%20Shirt/3.png"
+			},
+			{
+				"public_id": "lylwg076m6q6h",
+				"url": "https://cdn.dummyjson.com/products/images/mens-shirts/Blue%20&%20Black%20Check%20Shirt/4.png"
+			}
+		],
+		"category": "mens-shirts",
+		"seller": "Fashion Trends",
+		"stock": 44,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Gigabyte Aorus Men Tshirt",
+		"price": 24.99,
+		"description": "The Gigabyte Aorus Men Tshirt is a cool and casual shirt for gaming enthusiasts. With the Aorus logo and sleek design, it's perfect for expressing your gaming style.",
+		"ratings": 4.95,
+		"images": [
+			{
+				"public_id": "lylwg076nrisj",
+				"url": "https://cdn.dummyjson.com/products/images/mens-shirts/Gigabyte%20Aorus%20Men%20Tshirt/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg0767vjra",
+				"url": "https://cdn.dummyjson.com/products/images/mens-shirts/Gigabyte%20Aorus%20Men%20Tshirt/1.png"
+			},
+			{
+				"public_id": "lylwg076xua19",
+				"url": "https://cdn.dummyjson.com/products/images/mens-shirts/Gigabyte%20Aorus%20Men%20Tshirt/2.png"
+			},
+			{
+				"public_id": "lylwg0765ukey",
+				"url": "https://cdn.dummyjson.com/products/images/mens-shirts/Gigabyte%20Aorus%20Men%20Tshirt/3.png"
+			},
+			{
+				"public_id": "lylwg07683vl7",
+				"url": "https://cdn.dummyjson.com/products/images/mens-shirts/Gigabyte%20Aorus%20Men%20Tshirt/4.png"
+			}
+		],
+		"category": "mens-shirts",
+		"seller": "Gigabyte",
+		"stock": 64,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Man Plaid Shirt",
+		"price": 34.99,
+		"description": "The Man Plaid Shirt is a timeless and versatile men's shirt with a classic plaid pattern. Its comfortable fit and casual style make it a wardrobe essential for various occasions.",
+		"ratings": 3.66,
+		"images": [
+			{
+				"public_id": "lylwg0767iaq4",
+				"url": "https://cdn.dummyjson.com/products/images/mens-shirts/Man%20Plaid%20Shirt/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg076hbnmb",
+				"url": "https://cdn.dummyjson.com/products/images/mens-shirts/Man%20Plaid%20Shirt/1.png"
+			},
+			{
+				"public_id": "lylwg076pvnf0",
+				"url": "https://cdn.dummyjson.com/products/images/mens-shirts/Man%20Plaid%20Shirt/2.png"
+			},
+			{
+				"public_id": "lylwg0769mqpq",
+				"url": "https://cdn.dummyjson.com/products/images/mens-shirts/Man%20Plaid%20Shirt/3.png"
+			},
+			{
+				"public_id": "lylwg076tm8rz",
+				"url": "https://cdn.dummyjson.com/products/images/mens-shirts/Man%20Plaid%20Shirt/4.png"
+			}
+		],
+		"category": "mens-shirts",
+		"seller": "Classic Wear",
+		"stock": 65,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Man Short Sleeve Shirt",
+		"price": 19.99,
+		"description": "The Man Short Sleeve Shirt is a breezy and stylish option for warm days. With a comfortable fit and short sleeves, it's perfect for a laid-back yet polished look.",
+		"ratings": 4.62,
+		"images": [
+			{
+				"public_id": "lylwg076oclm7",
+				"url": "https://cdn.dummyjson.com/products/images/mens-shirts/Man%20Short%20Sleeve%20Shirt/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg076x2cwa",
+				"url": "https://cdn.dummyjson.com/products/images/mens-shirts/Man%20Short%20Sleeve%20Shirt/1.png"
+			},
+			{
+				"public_id": "lylwg076duven",
+				"url": "https://cdn.dummyjson.com/products/images/mens-shirts/Man%20Short%20Sleeve%20Shirt/2.png"
+			},
+			{
+				"public_id": "lylwg076g8vpq",
+				"url": "https://cdn.dummyjson.com/products/images/mens-shirts/Man%20Short%20Sleeve%20Shirt/3.png"
+			},
+			{
+				"public_id": "lylwg076meqyc",
+				"url": "https://cdn.dummyjson.com/products/images/mens-shirts/Man%20Short%20Sleeve%20Shirt/4.png"
+			}
+		],
+		"category": "mens-shirts",
+		"seller": "Casual Comfort",
+		"stock": 20,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Men Check Shirt",
+		"price": 27.99,
+		"description": "The Men Check Shirt is a classic and versatile shirt featuring a stylish check pattern. Suitable for various occasions, it adds a smart and polished touch to your wardrobe.",
+		"ratings": 2.9,
+		"images": [
+			{
+				"public_id": "lylwg07659upo",
+				"url": "https://cdn.dummyjson.com/products/images/mens-shirts/Men%20Check%20Shirt/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg076105ie",
+				"url": "https://cdn.dummyjson.com/products/images/mens-shirts/Men%20Check%20Shirt/1.png"
+			},
+			{
+				"public_id": "lylwg076jrhbj",
+				"url": "https://cdn.dummyjson.com/products/images/mens-shirts/Men%20Check%20Shirt/2.png"
+			},
+			{
+				"public_id": "lylwg076luckf",
+				"url": "https://cdn.dummyjson.com/products/images/mens-shirts/Men%20Check%20Shirt/3.png"
+			},
+			{
+				"public_id": "lylwg07663sfp",
+				"url": "https://cdn.dummyjson.com/products/images/mens-shirts/Men%20Check%20Shirt/4.png"
+			}
+		],
+		"category": "mens-shirts",
+		"seller": "Urban Chic",
+		"stock": 69,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Nike Air Jordan 1 Red And Black",
+		"price": 149.99,
+		"description": "The Nike Air Jordan 1 in Red and Black is an iconic basketball sneaker known for its stylish design and high-performance features, making it a favorite among sneaker enthusiasts and athletes.",
+		"ratings": 2.77,
+		"images": [
+			{
+				"public_id": "lylwg076nfgb4",
+				"url": "https://cdn.dummyjson.com/products/images/mens-shoes/Nike%20Air%20Jordan%201%20Red%20And%20Black/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg076bcgsn",
+				"url": "https://cdn.dummyjson.com/products/images/mens-shoes/Nike%20Air%20Jordan%201%20Red%20And%20Black/1.png"
+			},
+			{
+				"public_id": "lylwg076lzrtn",
+				"url": "https://cdn.dummyjson.com/products/images/mens-shoes/Nike%20Air%20Jordan%201%20Red%20And%20Black/2.png"
+			},
+			{
+				"public_id": "lylwg076yxxe6",
+				"url": "https://cdn.dummyjson.com/products/images/mens-shoes/Nike%20Air%20Jordan%201%20Red%20And%20Black/3.png"
+			},
+			{
+				"public_id": "lylwg0766u1fp",
+				"url": "https://cdn.dummyjson.com/products/images/mens-shoes/Nike%20Air%20Jordan%201%20Red%20And%20Black/4.png"
+			}
+		],
+		"category": "mens-shoes",
+		"seller": "Nike",
+		"stock": 15,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Nike Baseball Cleats",
+		"price": 79.99,
+		"description": "Nike Baseball Cleats are designed for maximum traction and performance on the baseball field. They provide stability and support for players during games and practices.",
+		"ratings": 4.01,
+		"images": [
+			{
+				"public_id": "lylwg0762u85l",
+				"url": "https://cdn.dummyjson.com/products/images/mens-shoes/Nike%20Baseball%20Cleats/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg0767rsjl",
+				"url": "https://cdn.dummyjson.com/products/images/mens-shoes/Nike%20Baseball%20Cleats/1.png"
+			},
+			{
+				"public_id": "lylwg076k1uqa",
+				"url": "https://cdn.dummyjson.com/products/images/mens-shoes/Nike%20Baseball%20Cleats/2.png"
+			},
+			{
+				"public_id": "lylwg076b1h67",
+				"url": "https://cdn.dummyjson.com/products/images/mens-shoes/Nike%20Baseball%20Cleats/3.png"
+			},
+			{
+				"public_id": "lylwg076patd9",
+				"url": "https://cdn.dummyjson.com/products/images/mens-shoes/Nike%20Baseball%20Cleats/4.png"
+			}
+		],
+		"category": "mens-shoes",
+		"seller": "Nike",
+		"stock": 14,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Puma Future Rider Trainers",
+		"price": 89.99,
+		"description": "The Puma Future Rider Trainers offer a blend of retro style and modern comfort. Perfect for casual wear, these trainers provide a fashionable and comfortable option for everyday use.",
+		"ratings": 4.85,
+		"images": [
+			{
+				"public_id": "lylwg076pzzf7",
+				"url": "https://cdn.dummyjson.com/products/images/mens-shoes/Puma%20Future%20Rider%20Trainers/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg076h14h3",
+				"url": "https://cdn.dummyjson.com/products/images/mens-shoes/Puma%20Future%20Rider%20Trainers/1.png"
+			},
+			{
+				"public_id": "lylwg076dgecu",
+				"url": "https://cdn.dummyjson.com/products/images/mens-shoes/Puma%20Future%20Rider%20Trainers/2.png"
+			},
+			{
+				"public_id": "lylwg076g9jky",
+				"url": "https://cdn.dummyjson.com/products/images/mens-shoes/Puma%20Future%20Rider%20Trainers/3.png"
+			},
+			{
+				"public_id": "lylwg076isaqp",
+				"url": "https://cdn.dummyjson.com/products/images/mens-shoes/Puma%20Future%20Rider%20Trainers/4.png"
+			}
+		],
+		"category": "mens-shoes",
+		"seller": "Puma",
+		"stock": 10,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Sports Sneakers Off White & Red",
+		"price": 119.99,
+		"description": "The Sports Sneakers in Off White and Red combine style and functionality, making them a fashionable choice for sports enthusiasts. The red and off-white color combination adds a bold and energetic touch.",
+		"ratings": 4.92,
+		"images": [
+			{
+				"public_id": "lylwg0761p24n",
+				"url": "https://cdn.dummyjson.com/products/images/mens-shoes/Sports%20Sneakers%20Off%20White%20&%20Red/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg0766jqji",
+				"url": "https://cdn.dummyjson.com/products/images/mens-shoes/Sports%20Sneakers%20Off%20White%20&%20Red/1.png"
+			},
+			{
+				"public_id": "lylwg076tsn0h",
+				"url": "https://cdn.dummyjson.com/products/images/mens-shoes/Sports%20Sneakers%20Off%20White%20&%20Red/2.png"
+			},
+			{
+				"public_id": "lylwg076own2p",
+				"url": "https://cdn.dummyjson.com/products/images/mens-shoes/Sports%20Sneakers%20Off%20White%20&%20Red/3.png"
+			},
+			{
+				"public_id": "lylwg0765keje",
+				"url": "https://cdn.dummyjson.com/products/images/mens-shoes/Sports%20Sneakers%20Off%20White%20&%20Red/4.png"
+			}
+		],
+		"category": "mens-shoes",
+		"seller": "Off White",
+		"stock": 73,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Sports Sneakers Off White Red",
+		"price": 109.99,
+		"description": "Another variant of the Sports Sneakers in Off White Red, featuring a unique design. These sneakers offer style and comfort for casual occasions.",
+		"ratings": 2.95,
+		"images": [
+			{
+				"public_id": "lylwg076y0zna",
+				"url": "https://cdn.dummyjson.com/products/images/mens-shoes/Sports%20Sneakers%20Off%20White%20Red/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg076z5jzq",
+				"url": "https://cdn.dummyjson.com/products/images/mens-shoes/Sports%20Sneakers%20Off%20White%20Red/1.png"
+			},
+			{
+				"public_id": "lylwg0763ndwn",
+				"url": "https://cdn.dummyjson.com/products/images/mens-shoes/Sports%20Sneakers%20Off%20White%20Red/2.png"
+			},
+			{
+				"public_id": "lylwg076ctod6",
+				"url": "https://cdn.dummyjson.com/products/images/mens-shoes/Sports%20Sneakers%20Off%20White%20Red/3.png"
+			},
+			{
+				"public_id": "lylwg076kfxyp",
+				"url": "https://cdn.dummyjson.com/products/images/mens-shoes/Sports%20Sneakers%20Off%20White%20Red/4.png"
+			}
+		],
+		"category": "mens-shoes",
+		"seller": "Off White",
+		"stock": 75,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Brown Leather Belt Watch",
+		"price": 89.99,
+		"description": "The Brown Leather Belt Watch is a stylish timepiece with a classic design. Featuring a genuine leather strap and a sleek dial, it adds a touch of sophistication to your look.",
+		"ratings": 4.47,
+		"images": [
+			{
+				"public_id": "lylwg076rjkv8",
+				"url": "https://cdn.dummyjson.com/products/images/mens-watches/Brown%20Leather%20Belt%20Watch/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg0768kt0o",
+				"url": "https://cdn.dummyjson.com/products/images/mens-watches/Brown%20Leather%20Belt%20Watch/1.png"
+			},
+			{
+				"public_id": "lylwg076gpnuk",
+				"url": "https://cdn.dummyjson.com/products/images/mens-watches/Brown%20Leather%20Belt%20Watch/2.png"
+			},
+			{
+				"public_id": "lylwg076u0ak7",
+				"url": "https://cdn.dummyjson.com/products/images/mens-watches/Brown%20Leather%20Belt%20Watch/3.png"
+			}
+		],
+		"category": "mens-watches",
+		"seller": "Fashion Timepieces",
+		"stock": 69,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Longines Master Collection",
+		"price": 1499.99,
+		"description": "The Longines Master Collection is an elegant and refined watch known for its precision and craftsmanship. With a timeless design, it's a symbol of luxury and sophistication.",
+		"ratings": 2.64,
+		"images": [
+			{
+				"public_id": "lylwg076w0cf2",
+				"url": "https://cdn.dummyjson.com/products/images/mens-watches/Longines%20Master%20Collection/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg076rd0pt",
+				"url": "https://cdn.dummyjson.com/products/images/mens-watches/Longines%20Master%20Collection/1.png"
+			},
+			{
+				"public_id": "lylwg07609fle",
+				"url": "https://cdn.dummyjson.com/products/images/mens-watches/Longines%20Master%20Collection/2.png"
+			},
+			{
+				"public_id": "lylwg076387x8",
+				"url": "https://cdn.dummyjson.com/products/images/mens-watches/Longines%20Master%20Collection/3.png"
+			}
+		],
+		"category": "mens-watches",
+		"seller": "Longines",
+		"stock": 65,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Rolex Cellini Date Black Dial",
+		"price": 8999.99,
+		"description": "The Rolex Cellini Date with Black Dial is a classic and prestigious watch. With a black dial and date complication, it exudes sophistication and is a symbol of Rolex's heritage.",
+		"ratings": 3.61,
+		"images": [
+			{
+				"public_id": "lylwg07692z9f",
+				"url": "https://cdn.dummyjson.com/products/images/mens-watches/Rolex%20Cellini%20Date%20Black%20Dial/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg076x1yjc",
+				"url": "https://cdn.dummyjson.com/products/images/mens-watches/Rolex%20Cellini%20Date%20Black%20Dial/1.png"
+			},
+			{
+				"public_id": "lylwg076tbu9g",
+				"url": "https://cdn.dummyjson.com/products/images/mens-watches/Rolex%20Cellini%20Date%20Black%20Dial/2.png"
+			},
+			{
+				"public_id": "lylwg076prxtw",
+				"url": "https://cdn.dummyjson.com/products/images/mens-watches/Rolex%20Cellini%20Date%20Black%20Dial/3.png"
+			}
+		],
+		"category": "mens-watches",
+		"seller": "Rolex",
+		"stock": 84,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Rolex Cellini Moonphase",
+		"price": 12999.99,
+		"description": "The Rolex Cellini Moonphase is a masterpiece of horology, featuring a moon phase complication and exquisite design. It reflects Rolex's commitment to precision and elegance.",
+		"ratings": 4.52,
+		"images": [
+			{
+				"public_id": "lylwg076u9osd",
+				"url": "https://cdn.dummyjson.com/products/images/mens-watches/Rolex%20Cellini%20Moonphase/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg076i1xv7",
+				"url": "https://cdn.dummyjson.com/products/images/mens-watches/Rolex%20Cellini%20Moonphase/1.png"
+			},
+			{
+				"public_id": "lylwg076f28bu",
+				"url": "https://cdn.dummyjson.com/products/images/mens-watches/Rolex%20Cellini%20Moonphase/2.png"
+			},
+			{
+				"public_id": "lylwg0769a8t3",
+				"url": "https://cdn.dummyjson.com/products/images/mens-watches/Rolex%20Cellini%20Moonphase/3.png"
+			}
+		],
+		"category": "mens-watches",
+		"seller": "Rolex",
+		"stock": 33,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Rolex Datejust",
+		"price": 10999.99,
+		"description": "The Rolex Datejust is an iconic and versatile timepiece with a date window. Known for its timeless design and reliability, it's a symbol of Rolex's watchmaking excellence.",
+		"ratings": 4.94,
+		"images": [
+			{
+				"public_id": "lylwg076o718x",
+				"url": "https://cdn.dummyjson.com/products/images/mens-watches/Rolex%20Datejust/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg0760zapd",
+				"url": "https://cdn.dummyjson.com/products/images/mens-watches/Rolex%20Datejust/1.png"
+			},
+			{
+				"public_id": "lylwg076se86w",
+				"url": "https://cdn.dummyjson.com/products/images/mens-watches/Rolex%20Datejust/2.png"
+			},
+			{
+				"public_id": "lylwg076la117",
+				"url": "https://cdn.dummyjson.com/products/images/mens-watches/Rolex%20Datejust/3.png"
+			}
+		],
+		"category": "mens-watches",
+		"seller": "Rolex",
+		"stock": 11,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Rolex Submariner Watch",
+		"price": 13999.99,
+		"description": "The Rolex Submariner is a legendary dive watch with a rich history. Known for its durability and water resistance, it's a symbol of adventure and exploration.",
+		"ratings": 2.97,
+		"images": [
+			{
+				"public_id": "lylwg076umms1",
+				"url": "https://cdn.dummyjson.com/products/images/mens-watches/Rolex%20Submariner%20Watch/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg076s6i8u",
+				"url": "https://cdn.dummyjson.com/products/images/mens-watches/Rolex%20Submariner%20Watch/1.png"
+			},
+			{
+				"public_id": "lylwg076m29lb",
+				"url": "https://cdn.dummyjson.com/products/images/mens-watches/Rolex%20Submariner%20Watch/2.png"
+			},
+			{
+				"public_id": "lylwg076d8wri",
+				"url": "https://cdn.dummyjson.com/products/images/mens-watches/Rolex%20Submariner%20Watch/3.png"
+			}
+		],
+		"category": "mens-watches",
+		"seller": "Rolex",
+		"stock": 35,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Amazon Echo Plus",
+		"price": 99.99,
+		"description": "The Amazon Echo Plus is a smart speaker with built-in Alexa voice control. It features premium sound quality and serves as a hub for controlling smart home devices.",
+		"ratings": 3.52,
+		"images": [
+			{
+				"public_id": "lylwg076qkn4g",
+				"url": "https://cdn.dummyjson.com/products/images/mobile-accessories/Amazon%20Echo%20Plus/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg076zpmuv",
+				"url": "https://cdn.dummyjson.com/products/images/mobile-accessories/Amazon%20Echo%20Plus/1.png"
+			},
+			{
+				"public_id": "lylwg076tvqxk",
+				"url": "https://cdn.dummyjson.com/products/images/mobile-accessories/Amazon%20Echo%20Plus/2.png"
+			}
+		],
+		"category": "mobile-accessories",
+		"seller": "Amazon",
+		"stock": 50,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Apple Airpods",
+		"price": 129.99,
+		"description": "The Apple Airpods offer a seamless wireless audio experience. With easy pairing, high-quality sound, and Siri integration, they are perfect for on-the-go listening.",
+		"ratings": 4.38,
+		"images": [
+			{
+				"public_id": "lylwg076edo9r",
+				"url": "https://cdn.dummyjson.com/products/images/mobile-accessories/Apple%20Airpods/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg076ovsn0",
+				"url": "https://cdn.dummyjson.com/products/images/mobile-accessories/Apple%20Airpods/1.png"
+			},
+			{
+				"public_id": "lylwg0767d59j",
+				"url": "https://cdn.dummyjson.com/products/images/mobile-accessories/Apple%20Airpods/2.png"
+			},
+			{
+				"public_id": "lylwg0769jvge",
+				"url": "https://cdn.dummyjson.com/products/images/mobile-accessories/Apple%20Airpods/3.png"
+			}
+		],
+		"category": "mobile-accessories",
+		"seller": "Apple",
+		"stock": 93,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Apple AirPods Max Silver",
+		"price": 549.99,
+		"description": "The Apple AirPods Max in Silver are premium over-ear headphones with high-fidelity audio, adaptive EQ, and active noise cancellation. Experience immersive sound in style.",
+		"ratings": 3.11,
+		"images": [
+			{
+				"public_id": "lylwg076gux5y",
+				"url": "https://cdn.dummyjson.com/products/images/mobile-accessories/Apple%20AirPods%20Max%20Silver/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg076f3r9a",
+				"url": "https://cdn.dummyjson.com/products/images/mobile-accessories/Apple%20AirPods%20Max%20Silver/1.png"
+			}
+		],
+		"category": "mobile-accessories",
+		"seller": "Apple",
+		"stock": 7,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Apple Airpower Wireless Charger",
+		"price": 79.99,
+		"description": "The Apple AirPower Wireless Charger provides a convenient way to charge your compatible Apple devices wirelessly. Simply place your devices on the charging mat for effortless charging.",
+		"ratings": 4.51,
+		"images": [
+			{
+				"public_id": "lylwg076ioode",
+				"url": "https://cdn.dummyjson.com/products/images/mobile-accessories/Apple%20Airpower%20Wireless%20Charger/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg076voqa8",
+				"url": "https://cdn.dummyjson.com/products/images/mobile-accessories/Apple%20Airpower%20Wireless%20Charger/1.png"
+			}
+		],
+		"category": "mobile-accessories",
+		"seller": "Apple",
+		"stock": 78,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Apple HomePod Mini Cosmic Grey",
+		"price": 99.99,
+		"description": "The Apple HomePod Mini in Cosmic Grey is a compact smart speaker that delivers impressive audio and integrates seamlessly with the Apple ecosystem for a smart home experience.",
+		"ratings": 4.51,
+		"images": [
+			{
+				"public_id": "lylwg0761rune",
+				"url": "https://cdn.dummyjson.com/products/images/mobile-accessories/Apple%20HomePod%20Mini%20Cosmic%20Grey/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg0763cnaq",
+				"url": "https://cdn.dummyjson.com/products/images/mobile-accessories/Apple%20HomePod%20Mini%20Cosmic%20Grey/1.png"
+			}
+		],
+		"category": "mobile-accessories",
+		"seller": "Apple",
+		"stock": 65,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Apple iPhone Charger",
+		"price": 19.99,
+		"description": "The Apple iPhone Charger is a high-quality charger designed for fast and efficient charging of your iPhone. Ensure your device stays powered up and ready to go.",
+		"ratings": 3.03,
+		"images": [
+			{
+				"public_id": "lylwg0767f70e",
+				"url": "https://cdn.dummyjson.com/products/images/mobile-accessories/Apple%20iPhone%20Charger/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg076wzi3k",
+				"url": "https://cdn.dummyjson.com/products/images/mobile-accessories/Apple%20iPhone%20Charger/1.png"
+			},
+			{
+				"public_id": "lylwg076w8zha",
+				"url": "https://cdn.dummyjson.com/products/images/mobile-accessories/Apple%20iPhone%20Charger/2.png"
+			}
+		],
+		"category": "mobile-accessories",
+		"seller": "Apple",
+		"stock": 4,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Apple MagSafe Battery Pack",
+		"price": 99.99,
+		"description": "The Apple MagSafe Battery Pack is a portable and convenient way to add extra battery life to your MagSafe-compatible iPhone. Attach it magnetically for a secure connection.",
+		"ratings": 2.61,
+		"images": [
+			{
+				"public_id": "lylwg076wjxg8",
+				"url": "https://cdn.dummyjson.com/products/images/mobile-accessories/Apple%20MagSafe%20Battery%20Pack/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg076csqxy",
+				"url": "https://cdn.dummyjson.com/products/images/mobile-accessories/Apple%20MagSafe%20Battery%20Pack/1.png"
+			},
+			{
+				"public_id": "lylwg076xhi5l",
+				"url": "https://cdn.dummyjson.com/products/images/mobile-accessories/Apple%20MagSafe%20Battery%20Pack/2.png"
+			}
+		],
+		"category": "mobile-accessories",
+		"seller": "Apple",
+		"stock": 80,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Apple Watch Series 4 Gold",
+		"price": 349.99,
+		"description": "The Apple Watch Series 4 in Gold is a stylish and advanced smartwatch with features like heart rate monitoring, fitness tracking, and a beautiful Retina display.",
+		"ratings": 4.42,
+		"images": [
+			{
+				"public_id": "lylwg076azbrn",
+				"url": "https://cdn.dummyjson.com/products/images/mobile-accessories/Apple%20Watch%20Series%204%20Gold/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg076hyv14",
+				"url": "https://cdn.dummyjson.com/products/images/mobile-accessories/Apple%20Watch%20Series%204%20Gold/1.png"
+			},
+			{
+				"public_id": "lylwg0769z3n7",
+				"url": "https://cdn.dummyjson.com/products/images/mobile-accessories/Apple%20Watch%20Series%204%20Gold/2.png"
+			},
+			{
+				"public_id": "lylwg076x1a2d",
+				"url": "https://cdn.dummyjson.com/products/images/mobile-accessories/Apple%20Watch%20Series%204%20Gold/3.png"
+			}
+		],
+		"category": "mobile-accessories",
+		"seller": "Apple",
+		"stock": 68,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Beats Flex Wireless Earphones",
+		"price": 49.99,
+		"description": "The Beats Flex Wireless Earphones offer a comfortable and versatile audio experience. With magnetic earbuds and up to 12 hours of battery life, they are ideal for everyday use.",
+		"ratings": 4.17,
+		"images": [
+			{
+				"public_id": "lylwg076s4orr",
+				"url": "https://cdn.dummyjson.com/products/images/mobile-accessories/Beats%20Flex%20Wireless%20Earphones/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg076du42y",
+				"url": "https://cdn.dummyjson.com/products/images/mobile-accessories/Beats%20Flex%20Wireless%20Earphones/1.png"
+			}
+		],
+		"category": "mobile-accessories",
+		"seller": "Beats",
+		"stock": 49,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "iPhone 12 Silicone Case with MagSafe Plum",
+		"price": 29.99,
+		"description": "The iPhone 12 Silicone Case with MagSafe in Plum is a stylish and protective case designed for the iPhone 12. It features MagSafe technology for easy attachment of accessories.",
+		"ratings": 4.41,
+		"images": [
+			{
+				"public_id": "lylwg076qz7mn",
+				"url": "https://cdn.dummyjson.com/products/images/mobile-accessories/iPhone%2012%20Silicone%20Case%20with%20MagSafe%20Plum/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg0763zrww",
+				"url": "https://cdn.dummyjson.com/products/images/mobile-accessories/iPhone%2012%20Silicone%20Case%20with%20MagSafe%20Plum/1.png"
+			},
+			{
+				"public_id": "lylwg07643igf",
+				"url": "https://cdn.dummyjson.com/products/images/mobile-accessories/iPhone%2012%20Silicone%20Case%20with%20MagSafe%20Plum/2.png"
+			},
+			{
+				"public_id": "lylwg07632uv5",
+				"url": "https://cdn.dummyjson.com/products/images/mobile-accessories/iPhone%2012%20Silicone%20Case%20with%20MagSafe%20Plum/3.png"
+			},
+			{
+				"public_id": "lylwg076uj6f9",
+				"url": "https://cdn.dummyjson.com/products/images/mobile-accessories/iPhone%2012%20Silicone%20Case%20with%20MagSafe%20Plum/4.png"
+			}
+		],
+		"category": "mobile-accessories",
+		"seller": "Apple",
+		"stock": 51,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Monopod",
+		"price": 19.99,
+		"description": "The Monopod is a versatile camera accessory for stable and adjustable shooting. Perfect for capturing selfies, group photos, and videos with ease.",
+		"ratings": 2.99,
+		"images": [
+			{
+				"public_id": "lylwg076fp0ru",
+				"url": "https://cdn.dummyjson.com/products/images/mobile-accessories/Monopod/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg076hvsae",
+				"url": "https://cdn.dummyjson.com/products/images/mobile-accessories/Monopod/1.png"
+			},
+			{
+				"public_id": "lylwg076l3n23",
+				"url": "https://cdn.dummyjson.com/products/images/mobile-accessories/Monopod/2.png"
+			}
+		],
+		"category": "mobile-accessories",
+		"seller": "TechGear",
+		"stock": 96,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Selfie Lamp with iPhone",
+		"price": 14.99,
+		"description": "The Selfie Lamp with iPhone is a portable and adjustable LED light designed to enhance your selfies and video calls. Attach it to your iPhone for well-lit photos.",
+		"ratings": 2.84,
+		"images": [
+			{
+				"public_id": "lylwg076zuecm",
+				"url": "https://cdn.dummyjson.com/products/images/mobile-accessories/Selfie%20Lamp%20with%20iPhone/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg0764zwc7",
+				"url": "https://cdn.dummyjson.com/products/images/mobile-accessories/Selfie%20Lamp%20with%20iPhone/1.png"
+			}
+		],
+		"category": "mobile-accessories",
+		"seller": "GadgetMaster",
+		"stock": 89,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Selfie Stick Monopod",
+		"price": 12.99,
+		"description": "The Selfie Stick Monopod is a extendable and foldable device for capturing the perfect selfie or group photo. Compatible with smartphones and cameras.",
+		"ratings": 2.93,
+		"images": [
+			{
+				"public_id": "lylwg076ip2gp",
+				"url": "https://cdn.dummyjson.com/products/images/mobile-accessories/Selfie%20Stick%20Monopod/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg076e1dso",
+				"url": "https://cdn.dummyjson.com/products/images/mobile-accessories/Selfie%20Stick%20Monopod/1.png"
+			}
+		],
+		"category": "mobile-accessories",
+		"seller": "SnapTech",
+		"stock": 33,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "TV Studio Camera Pedestal",
+		"price": 499.99,
+		"description": "The TV Studio Camera Pedestal is a professional-grade camera support system for smooth and precise camera movements in a studio setting. Ideal for broadcast and production.",
+		"ratings": 4.05,
+		"images": [
+			{
+				"public_id": "lylwg076eqjg7",
+				"url": "https://cdn.dummyjson.com/products/images/mobile-accessories/TV%20Studio%20Camera%20Pedestal/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg076n5iip",
+				"url": "https://cdn.dummyjson.com/products/images/mobile-accessories/TV%20Studio%20Camera%20Pedestal/1.png"
+			}
+		],
+		"category": "mobile-accessories",
+		"seller": "ProVision",
+		"stock": 45,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Generic Motorcycle",
+		"price": 3999.99,
+		"description": "The Generic Motorcycle is a versatile and reliable bike suitable for various riding preferences. With a balanced design, it provides a comfortable and efficient riding experience.",
+		"ratings": 4.85,
+		"images": [
+			{
+				"public_id": "lylwg076jrg06",
+				"url": "https://cdn.dummyjson.com/products/images/motorcycle/Generic%20Motorcycle/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg076toyv4",
+				"url": "https://cdn.dummyjson.com/products/images/motorcycle/Generic%20Motorcycle/1.png"
+			},
+			{
+				"public_id": "lylwg0767ylhl",
+				"url": "https://cdn.dummyjson.com/products/images/motorcycle/Generic%20Motorcycle/2.png"
+			},
+			{
+				"public_id": "lylwg076dwgyu",
+				"url": "https://cdn.dummyjson.com/products/images/motorcycle/Generic%20Motorcycle/3.png"
+			},
+			{
+				"public_id": "lylwg076m17je",
+				"url": "https://cdn.dummyjson.com/products/images/motorcycle/Generic%20Motorcycle/4.png"
+			}
+		],
+		"category": "motorcycle",
+		"seller": "Generic Motors",
+		"stock": 63,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Kawasaki Z800",
+		"price": 8999.99,
+		"description": "The Kawasaki Z800 is a powerful and agile sportbike known for its striking design and performance. It's equipped with advanced features, making it a favorite among motorcycle enthusiasts.",
+		"ratings": 4.06,
+		"images": [
+			{
+				"public_id": "lylwg076v2hmr",
+				"url": "https://cdn.dummyjson.com/products/images/motorcycle/Kawasaki%20Z800/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg076xvtjl",
+				"url": "https://cdn.dummyjson.com/products/images/motorcycle/Kawasaki%20Z800/1.png"
+			},
+			{
+				"public_id": "lylwg076j2u93",
+				"url": "https://cdn.dummyjson.com/products/images/motorcycle/Kawasaki%20Z800/2.png"
+			},
+			{
+				"public_id": "lylwg076vvmjf",
+				"url": "https://cdn.dummyjson.com/products/images/motorcycle/Kawasaki%20Z800/3.png"
+			},
+			{
+				"public_id": "lylwg076jkbhp",
+				"url": "https://cdn.dummyjson.com/products/images/motorcycle/Kawasaki%20Z800/4.png"
+			}
+		],
+		"category": "motorcycle",
+		"seller": "Kawasaki",
+		"stock": 88,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "MotoGP CI.H1",
+		"price": 14999.99,
+		"description": "The MotoGP CI.H1 is a high-performance motorcycle inspired by MotoGP racing technology. It offers cutting-edge features and precision engineering for an exhilarating riding experience.",
+		"ratings": 4.15,
+		"images": [
+			{
+				"public_id": "lylwg076yzxi6",
+				"url": "https://cdn.dummyjson.com/products/images/motorcycle/MotoGP%20CI.H1/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg076su51t",
+				"url": "https://cdn.dummyjson.com/products/images/motorcycle/MotoGP%20CI.H1/1.png"
+			},
+			{
+				"public_id": "lylwg076fz58k",
+				"url": "https://cdn.dummyjson.com/products/images/motorcycle/MotoGP%20CI.H1/2.png"
+			},
+			{
+				"public_id": "lylwg076p1jam",
+				"url": "https://cdn.dummyjson.com/products/images/motorcycle/MotoGP%20CI.H1/3.png"
+			},
+			{
+				"public_id": "lylwg076y5m4l",
+				"url": "https://cdn.dummyjson.com/products/images/motorcycle/MotoGP%20CI.H1/4.png"
+			}
+		],
+		"category": "motorcycle",
+		"seller": "MotoGP",
+		"stock": 85,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Scooter Motorcycle",
+		"price": 2999.99,
+		"description": "The Scooter Motorcycle is a practical and fuel-efficient bike ideal for urban commuting. It features a step-through design and user-friendly controls for easy maneuverability.",
+		"ratings": 3.33,
+		"images": [
+			{
+				"public_id": "lylwg076lli39",
+				"url": "https://cdn.dummyjson.com/products/images/motorcycle/Scooter%20Motorcycle/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg0761neui",
+				"url": "https://cdn.dummyjson.com/products/images/motorcycle/Scooter%20Motorcycle/1.png"
+			},
+			{
+				"public_id": "lylwg076bs1is",
+				"url": "https://cdn.dummyjson.com/products/images/motorcycle/Scooter%20Motorcycle/2.png"
+			},
+			{
+				"public_id": "lylwg076qq9kj",
+				"url": "https://cdn.dummyjson.com/products/images/motorcycle/Scooter%20Motorcycle/3.png"
+			},
+			{
+				"public_id": "lylwg0766snb6",
+				"url": "https://cdn.dummyjson.com/products/images/motorcycle/Scooter%20Motorcycle/4.png"
+			}
+		],
+		"category": "motorcycle",
+		"seller": "ScootMaster",
+		"stock": 11,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Sportbike Motorcycle",
+		"price": 7499.99,
+		"description": "The Sportbike Motorcycle is designed for speed and agility, with a sleek and aerodynamic profile. It's suitable for riders looking for a dynamic and thrilling riding experience.",
+		"ratings": 2.97,
+		"images": [
+			{
+				"public_id": "lylwg076egnmf",
+				"url": "https://cdn.dummyjson.com/products/images/motorcycle/Sportbike%20Motorcycle/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg0761xh48",
+				"url": "https://cdn.dummyjson.com/products/images/motorcycle/Sportbike%20Motorcycle/1.png"
+			},
+			{
+				"public_id": "lylwg076qxf2e",
+				"url": "https://cdn.dummyjson.com/products/images/motorcycle/Sportbike%20Motorcycle/2.png"
+			},
+			{
+				"public_id": "lylwg076t3k2j",
+				"url": "https://cdn.dummyjson.com/products/images/motorcycle/Sportbike%20Motorcycle/3.png"
+			},
+			{
+				"public_id": "lylwg076mswxi",
+				"url": "https://cdn.dummyjson.com/products/images/motorcycle/Sportbike%20Motorcycle/4.png"
+			}
+		],
+		"category": "motorcycle",
+		"seller": "SpeedMaster",
+		"stock": 12,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Attitude Super Leaves Hand Soap",
+		"price": 8.99,
+		"description": "Attitude Super Leaves Hand Soap is a natural and nourishing hand soap enriched with the goodness of super leaves. It cleanses and moisturizes your hands, leaving them feeling fresh and soft.",
+		"ratings": 4.68,
+		"images": [
+			{
+				"public_id": "lylwg0761oh42",
+				"url": "https://cdn.dummyjson.com/products/images/skin-care/Attitude%20Super%20Leaves%20Hand%20Soap/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg076f49eb",
+				"url": "https://cdn.dummyjson.com/products/images/skin-care/Attitude%20Super%20Leaves%20Hand%20Soap/1.png"
+			},
+			{
+				"public_id": "lylwg0761268o",
+				"url": "https://cdn.dummyjson.com/products/images/skin-care/Attitude%20Super%20Leaves%20Hand%20Soap/2.png"
+			},
+			{
+				"public_id": "lylwg0769r919",
+				"url": "https://cdn.dummyjson.com/products/images/skin-care/Attitude%20Super%20Leaves%20Hand%20Soap/3.png"
+			}
+		],
+		"category": "skin-care",
+		"seller": "Attitude",
+		"stock": 98,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Olay Ultra Moisture Shea Butter Body Wash",
+		"price": 12.99,
+		"description": "Olay Ultra Moisture Shea Butter Body Wash is a luxurious body wash that hydrates and nourishes your skin with the moisturizing power of shea butter. Enjoy a rich lather and silky-smooth skin.",
+		"ratings": 4.81,
+		"images": [
+			{
+				"public_id": "lylwg076k2xch",
+				"url": "https://cdn.dummyjson.com/products/images/skin-care/Olay%20Ultra%20Moisture%20Shea%20Butter%20Body%20Wash/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg076hl3xr",
+				"url": "https://cdn.dummyjson.com/products/images/skin-care/Olay%20Ultra%20Moisture%20Shea%20Butter%20Body%20Wash/1.png"
+			},
+			{
+				"public_id": "lylwg076nwure",
+				"url": "https://cdn.dummyjson.com/products/images/skin-care/Olay%20Ultra%20Moisture%20Shea%20Butter%20Body%20Wash/2.png"
+			},
+			{
+				"public_id": "lylwg076ytvvn",
+				"url": "https://cdn.dummyjson.com/products/images/skin-care/Olay%20Ultra%20Moisture%20Shea%20Butter%20Body%20Wash/3.png"
+			}
+		],
+		"category": "skin-care",
+		"seller": "Olay",
+		"stock": 43,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Vaseline Men Body and Face Lotion",
+		"price": 9.99,
+		"description": "Vaseline Men Body and Face Lotion is a specially formulated lotion designed to provide long-lasting moisture to men's skin. It absorbs quickly and helps keep the skin hydrated and healthy.",
+		"ratings": 3.97,
+		"images": [
+			{
+				"public_id": "lylwg076x57g3",
+				"url": "https://cdn.dummyjson.com/products/images/skin-care/Vaseline%20Men%20Body%20and%20Face%20Lotion/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg076axsgv",
+				"url": "https://cdn.dummyjson.com/products/images/skin-care/Vaseline%20Men%20Body%20and%20Face%20Lotion/1.png"
+			},
+			{
+				"public_id": "lylwg076foah7",
+				"url": "https://cdn.dummyjson.com/products/images/skin-care/Vaseline%20Men%20Body%20and%20Face%20Lotion/2.png"
+			},
+			{
+				"public_id": "lylwg076x4pod",
+				"url": "https://cdn.dummyjson.com/products/images/skin-care/Vaseline%20Men%20Body%20and%20Face%20Lotion/3.png"
+			}
+		],
+		"category": "skin-care",
+		"seller": "Vaseline",
+		"stock": 54,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "iPhone 5s",
+		"price": 199.99,
+		"description": "The iPhone 5s is a classic smartphone known for its compact design and advanced features during its release. While it's an older model, it still provides a reliable user experience.",
+		"ratings": 3.92,
+		"images": [
+			{
+				"public_id": "lylwg0769g0bc",
+				"url": "https://cdn.dummyjson.com/products/images/smartphones/iPhone%205s/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg0769lggy",
+				"url": "https://cdn.dummyjson.com/products/images/smartphones/iPhone%205s/1.png"
+			},
+			{
+				"public_id": "lylwg076i2p6n",
+				"url": "https://cdn.dummyjson.com/products/images/smartphones/iPhone%205s/2.png"
+			},
+			{
+				"public_id": "lylwg076lw18r",
+				"url": "https://cdn.dummyjson.com/products/images/smartphones/iPhone%205s/3.png"
+			}
+		],
+		"category": "smartphones",
+		"seller": "Apple",
+		"stock": 65,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "iPhone 6",
+		"price": 299.99,
+		"description": "The iPhone 6 is a stylish and capable smartphone with a larger display and improved performance. It introduced new features and design elements, making it a popular choice in its time.",
+		"ratings": 3.76,
+		"images": [
+			{
+				"public_id": "lylwg076lrsps",
+				"url": "https://cdn.dummyjson.com/products/images/smartphones/iPhone%206/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg076r1x9d",
+				"url": "https://cdn.dummyjson.com/products/images/smartphones/iPhone%206/1.png"
+			},
+			{
+				"public_id": "lylwg076z35nb",
+				"url": "https://cdn.dummyjson.com/products/images/smartphones/iPhone%206/2.png"
+			},
+			{
+				"public_id": "lylwg076axizp",
+				"url": "https://cdn.dummyjson.com/products/images/smartphones/iPhone%206/3.png"
+			}
+		],
+		"category": "smartphones",
+		"seller": "Apple",
+		"stock": 99,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "iPhone 13 Pro",
+		"price": 1099.99,
+		"description": "The iPhone 13 Pro is a cutting-edge smartphone with a powerful camera system, high-performance chip, and stunning display. It offers advanced features for users who demand top-notch technology.",
+		"ratings": 3.42,
+		"images": [
+			{
+				"public_id": "lylwg076osg64",
+				"url": "https://cdn.dummyjson.com/products/images/smartphones/iPhone%2013%20Pro/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg076e3ne5",
+				"url": "https://cdn.dummyjson.com/products/images/smartphones/iPhone%2013%20Pro/1.png"
+			},
+			{
+				"public_id": "lylwg0766q36n",
+				"url": "https://cdn.dummyjson.com/products/images/smartphones/iPhone%2013%20Pro/2.png"
+			},
+			{
+				"public_id": "lylwg076s60j4",
+				"url": "https://cdn.dummyjson.com/products/images/smartphones/iPhone%2013%20Pro/3.png"
+			}
+		],
+		"category": "smartphones",
+		"seller": "Apple",
+		"stock": 26,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "iPhone X",
+		"price": 899.99,
+		"description": "The iPhone X is a flagship smartphone featuring a bezel-less OLED display, facial recognition technology (Face ID), and impressive performance. It represents a milestone in iPhone design and innovation.",
+		"ratings": 4.96,
+		"images": [
+			{
+				"public_id": "lylwg0761ho58",
+				"url": "https://cdn.dummyjson.com/products/images/smartphones/iPhone%20X/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg076rj6rg",
+				"url": "https://cdn.dummyjson.com/products/images/smartphones/iPhone%20X/1.png"
+			},
+			{
+				"public_id": "lylwg076dxmmd",
+				"url": "https://cdn.dummyjson.com/products/images/smartphones/iPhone%20X/2.png"
+			},
+			{
+				"public_id": "lylwg076r4b0s",
+				"url": "https://cdn.dummyjson.com/products/images/smartphones/iPhone%20X/3.png"
+			}
+		],
+		"category": "smartphones",
+		"seller": "Apple",
+		"stock": 99,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Oppo A57",
+		"price": 249.99,
+		"description": "The Oppo A57 is a mid-range smartphone known for its sleek design and capable features. It offers a balance of performance and affordability, making it a popular choice.",
+		"ratings": 3.1,
+		"images": [
+			{
+				"public_id": "lylwg076pzeo8",
+				"url": "https://cdn.dummyjson.com/products/images/smartphones/Oppo%20A57/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg076cbjfk",
+				"url": "https://cdn.dummyjson.com/products/images/smartphones/Oppo%20A57/1.png"
+			},
+			{
+				"public_id": "lylwg0769hkrf",
+				"url": "https://cdn.dummyjson.com/products/images/smartphones/Oppo%20A57/2.png"
+			},
+			{
+				"public_id": "lylwg076whoe5",
+				"url": "https://cdn.dummyjson.com/products/images/smartphones/Oppo%20A57/3.png"
+			}
+		],
+		"category": "smartphones",
+		"seller": "Oppo",
+		"stock": 76,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Oppo F19 Pro Plus",
+		"price": 399.99,
+		"description": "The Oppo F19 Pro Plus is a feature-rich smartphone with a focus on camera capabilities. It boasts advanced photography features and a powerful performance for a premium user experience.",
+		"ratings": 2.57,
+		"images": [
+			{
+				"public_id": "lylwg076y8vfe",
+				"url": "https://cdn.dummyjson.com/products/images/smartphones/Oppo%20F19%20Pro%20Plus/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg0765zemi",
+				"url": "https://cdn.dummyjson.com/products/images/smartphones/Oppo%20F19%20Pro%20Plus/1.png"
+			},
+			{
+				"public_id": "lylwg076iyuot",
+				"url": "https://cdn.dummyjson.com/products/images/smartphones/Oppo%20F19%20Pro%20Plus/2.png"
+			},
+			{
+				"public_id": "lylwg0764d538",
+				"url": "https://cdn.dummyjson.com/products/images/smartphones/Oppo%20F19%20Pro%20Plus/3.png"
+			}
+		],
+		"category": "smartphones",
+		"seller": "Oppo",
+		"stock": 92,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Oppo K1",
+		"price": 299.99,
+		"description": "The Oppo K1 series offers a range of smartphones with various features and specifications. Known for their stylish design and reliable performance, the Oppo K1 series caters to diverse user preferences.",
+		"ratings": 3.39,
+		"images": [
+			{
+				"public_id": "lylwg07624lnh",
+				"url": "https://cdn.dummyjson.com/products/images/smartphones/Oppo%20K1/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg076h0mgr",
+				"url": "https://cdn.dummyjson.com/products/images/smartphones/Oppo%20K1/1.png"
+			},
+			{
+				"public_id": "lylwg076lzjut",
+				"url": "https://cdn.dummyjson.com/products/images/smartphones/Oppo%20K1/2.png"
+			},
+			{
+				"public_id": "lylwg076uqyoq",
+				"url": "https://cdn.dummyjson.com/products/images/smartphones/Oppo%20K1/3.png"
+			},
+			{
+				"public_id": "lylwg076xynvj",
+				"url": "https://cdn.dummyjson.com/products/images/smartphones/Oppo%20K1/4.png"
+			}
+		],
+		"category": "smartphones",
+		"seller": "Oppo",
+		"stock": 61,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Realme C35",
+		"price": 149.99,
+		"description": "The Realme C35 is a budget-friendly smartphone with a focus on providing essential features for everyday use. It offers a reliable performance and user-friendly experience.",
+		"ratings": 2.56,
+		"images": [
+			{
+				"public_id": "lylwg076eaigj",
+				"url": "https://cdn.dummyjson.com/products/images/smartphones/Realme%20C35/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg076itwoq",
+				"url": "https://cdn.dummyjson.com/products/images/smartphones/Realme%20C35/1.png"
+			},
+			{
+				"public_id": "lylwg0760a9oz",
+				"url": "https://cdn.dummyjson.com/products/images/smartphones/Realme%20C35/2.png"
+			},
+			{
+				"public_id": "lylwg076eluh7",
+				"url": "https://cdn.dummyjson.com/products/images/smartphones/Realme%20C35/3.png"
+			}
+		],
+		"category": "smartphones",
+		"seller": "Realme",
+		"stock": 81,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Realme X",
+		"price": 299.99,
+		"description": "The Realme X is a mid-range smartphone known for its sleek design and impressive display. It offers a good balance of performance and camera capabilities for users seeking a quality device.",
+		"ratings": 4.42,
+		"images": [
+			{
+				"public_id": "lylwg0766mrgn",
+				"url": "https://cdn.dummyjson.com/products/images/smartphones/Realme%20X/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg076gofaw",
+				"url": "https://cdn.dummyjson.com/products/images/smartphones/Realme%20X/1.png"
+			},
+			{
+				"public_id": "lylwg076qvcpd",
+				"url": "https://cdn.dummyjson.com/products/images/smartphones/Realme%20X/2.png"
+			},
+			{
+				"public_id": "lylwg0763sieb",
+				"url": "https://cdn.dummyjson.com/products/images/smartphones/Realme%20X/3.png"
+			}
+		],
+		"category": "smartphones",
+		"seller": "Realme",
+		"stock": 87,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Realme XT",
+		"price": 349.99,
+		"description": "The Realme XT is a feature-rich smartphone with a focus on camera technology. It comes equipped with advanced camera sensors, delivering high-quality photos and videos for photography enthusiasts.",
+		"ratings": 4.14,
+		"images": [
+			{
+				"public_id": "lylwg076unyp7",
+				"url": "https://cdn.dummyjson.com/products/images/smartphones/Realme%20XT/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg076pxsau",
+				"url": "https://cdn.dummyjson.com/products/images/smartphones/Realme%20XT/1.png"
+			},
+			{
+				"public_id": "lylwg076os31j",
+				"url": "https://cdn.dummyjson.com/products/images/smartphones/Realme%20XT/2.png"
+			},
+			{
+				"public_id": "lylwg076364bm",
+				"url": "https://cdn.dummyjson.com/products/images/smartphones/Realme%20XT/3.png"
+			}
+		],
+		"category": "smartphones",
+		"seller": "Realme",
+		"stock": 53,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Samsung Galaxy S7",
+		"price": 299.99,
+		"description": "The Samsung Galaxy S7 is a flagship smartphone known for its sleek design and advanced features. It features a high-resolution display, powerful camera, and robust performance.",
+		"ratings": 4.9,
+		"images": [
+			{
+				"public_id": "lylwg076h61lz",
+				"url": "https://cdn.dummyjson.com/products/images/smartphones/Samsung%20Galaxy%20S7/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg076nkjbo",
+				"url": "https://cdn.dummyjson.com/products/images/smartphones/Samsung%20Galaxy%20S7/1.png"
+			},
+			{
+				"public_id": "lylwg076xy387",
+				"url": "https://cdn.dummyjson.com/products/images/smartphones/Samsung%20Galaxy%20S7/2.png"
+			},
+			{
+				"public_id": "lylwg076j9kwe",
+				"url": "https://cdn.dummyjson.com/products/images/smartphones/Samsung%20Galaxy%20S7/3.png"
+			}
+		],
+		"category": "smartphones",
+		"seller": "Samsung",
+		"stock": 55,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Samsung Galaxy S8",
+		"price": 499.99,
+		"description": "The Samsung Galaxy S8 is a premium smartphone with an Infinity Display, offering a stunning visual experience. It boasts advanced camera capabilities and cutting-edge technology.",
+		"ratings": 3.69,
+		"images": [
+			{
+				"public_id": "lylwg076591gl",
+				"url": "https://cdn.dummyjson.com/products/images/smartphones/Samsung%20Galaxy%20S8/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg076t83r6",
+				"url": "https://cdn.dummyjson.com/products/images/smartphones/Samsung%20Galaxy%20S8/1.png"
+			},
+			{
+				"public_id": "lylwg076zzg07",
+				"url": "https://cdn.dummyjson.com/products/images/smartphones/Samsung%20Galaxy%20S8/2.png"
+			},
+			{
+				"public_id": "lylwg076s0lva",
+				"url": "https://cdn.dummyjson.com/products/images/smartphones/Samsung%20Galaxy%20S8/3.png"
+			}
+		],
+		"category": "smartphones",
+		"seller": "Samsung",
+		"stock": 75,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Samsung Galaxy S10",
+		"price": 699.99,
+		"description": "The Samsung Galaxy S10 is a flagship device featuring a dynamic AMOLED display, versatile camera system, and powerful performance. It represents innovation and excellence in smartphone technology.",
+		"ratings": 2.81,
+		"images": [
+			{
+				"public_id": "lylwg0769nkxy",
+				"url": "https://cdn.dummyjson.com/products/images/smartphones/Samsung%20Galaxy%20S10/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg076mz5ia",
+				"url": "https://cdn.dummyjson.com/products/images/smartphones/Samsung%20Galaxy%20S10/1.png"
+			},
+			{
+				"public_id": "lylwg076dxg1o",
+				"url": "https://cdn.dummyjson.com/products/images/smartphones/Samsung%20Galaxy%20S10/2.png"
+			},
+			{
+				"public_id": "lylwg07625k8j",
+				"url": "https://cdn.dummyjson.com/products/images/smartphones/Samsung%20Galaxy%20S10/3.png"
+			}
+		],
+		"category": "smartphones",
+		"seller": "Samsung",
+		"stock": 40,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Vivo S1",
+		"price": 249.99,
+		"description": "The Vivo S1 is a stylish and mid-range smartphone offering a blend of design and performance. It features a vibrant display, capable camera system, and reliable functionality.",
+		"ratings": 2.83,
+		"images": [
+			{
+				"public_id": "lylwg076hy2xe",
+				"url": "https://cdn.dummyjson.com/products/images/smartphones/Vivo%20S1/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg0761x2wh",
+				"url": "https://cdn.dummyjson.com/products/images/smartphones/Vivo%20S1/1.png"
+			},
+			{
+				"public_id": "lylwg0762933l",
+				"url": "https://cdn.dummyjson.com/products/images/smartphones/Vivo%20S1/2.png"
+			},
+			{
+				"public_id": "lylwg076mbkvp",
+				"url": "https://cdn.dummyjson.com/products/images/smartphones/Vivo%20S1/3.png"
+			}
+		],
+		"category": "smartphones",
+		"seller": "Vivo",
+		"stock": 13,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Vivo V9",
+		"price": 299.99,
+		"description": "The Vivo V9 is a smartphone known for its sleek design and emphasis on capturing high-quality selfies. It features a notch display, dual-camera setup, and a modern design.",
+		"ratings": 3.1,
+		"images": [
+			{
+				"public_id": "lylwg076dcc9w",
+				"url": "https://cdn.dummyjson.com/products/images/smartphones/Vivo%20V9/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg0765loek",
+				"url": "https://cdn.dummyjson.com/products/images/smartphones/Vivo%20V9/1.png"
+			},
+			{
+				"public_id": "lylwg076ax300",
+				"url": "https://cdn.dummyjson.com/products/images/smartphones/Vivo%20V9/2.png"
+			},
+			{
+				"public_id": "lylwg0766ruu4",
+				"url": "https://cdn.dummyjson.com/products/images/smartphones/Vivo%20V9/3.png"
+			}
+		],
+		"category": "smartphones",
+		"seller": "Vivo",
+		"stock": 19,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Vivo X21",
+		"price": 499.99,
+		"description": "The Vivo X21 is a premium smartphone with a focus on cutting-edge technology. It features an in-display fingerprint sensor, a high-resolution display, and advanced camera capabilities.",
+		"ratings": 2.75,
+		"images": [
+			{
+				"public_id": "lylwg076yygwn",
+				"url": "https://cdn.dummyjson.com/products/images/smartphones/Vivo%20X21/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg076r16zc",
+				"url": "https://cdn.dummyjson.com/products/images/smartphones/Vivo%20X21/1.png"
+			},
+			{
+				"public_id": "lylwg0766fcxe",
+				"url": "https://cdn.dummyjson.com/products/images/smartphones/Vivo%20X21/2.png"
+			},
+			{
+				"public_id": "lylwg076ndlxg",
+				"url": "https://cdn.dummyjson.com/products/images/smartphones/Vivo%20X21/3.png"
+			}
+		],
+		"category": "smartphones",
+		"seller": "Vivo",
+		"stock": 0,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "American Football",
+		"price": 19.99,
+		"description": "The American Football is a classic ball used in American football games. It is designed for throwing and catching, making it an essential piece of equipment for the sport.",
+		"ratings": 3.78,
+		"images": [
+			{
+				"public_id": "lylwg076hlzg3",
+				"url": "https://cdn.dummyjson.com/products/images/sports-accessories/American%20Football/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg076ec98z",
+				"url": "https://cdn.dummyjson.com/products/images/sports-accessories/American%20Football/1.png"
+			}
+		],
+		"category": "sports-accessories",
+		"seller": "",
+		"stock": 48,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Baseball Ball",
+		"price": 8.99,
+		"description": "The Baseball Ball is a standard baseball used in baseball games. It features a durable leather cover and is designed for pitching, hitting, and fielding in the game of baseball.",
+		"ratings": 4.76,
+		"images": [
+			{
+				"public_id": "lylwg076mjnmr",
+				"url": "https://cdn.dummyjson.com/products/images/sports-accessories/Baseball%20Ball/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg076j4s99",
+				"url": "https://cdn.dummyjson.com/products/images/sports-accessories/Baseball%20Ball/1.png"
+			}
+		],
+		"category": "sports-accessories",
+		"seller": "",
+		"stock": 71,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Baseball Glove",
+		"price": 24.99,
+		"description": "The Baseball Glove is a protective glove worn by baseball players. It is designed to catch and field the baseball, providing players with comfort and control during the game.",
+		"ratings": 2.72,
+		"images": [
+			{
+				"public_id": "lylwg076hpkuf",
+				"url": "https://cdn.dummyjson.com/products/images/sports-accessories/Baseball%20Glove/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg076lgle0",
+				"url": "https://cdn.dummyjson.com/products/images/sports-accessories/Baseball%20Glove/1.png"
+			},
+			{
+				"public_id": "lylwg076hhouy",
+				"url": "https://cdn.dummyjson.com/products/images/sports-accessories/Baseball%20Glove/2.png"
+			},
+			{
+				"public_id": "lylwg076rrimu",
+				"url": "https://cdn.dummyjson.com/products/images/sports-accessories/Baseball%20Glove/3.png"
+			}
+		],
+		"category": "sports-accessories",
+		"seller": "",
+		"stock": 43,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Basketball",
+		"price": 14.99,
+		"description": "The Basketball is a standard ball used in basketball games. It is designed for dribbling, shooting, and passing in the game of basketball, suitable for both indoor and outdoor play.",
+		"ratings": 4.15,
+		"images": [
+			{
+				"public_id": "lylwg076mo6z2",
+				"url": "https://cdn.dummyjson.com/products/images/sports-accessories/Basketball/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg0761abj6",
+				"url": "https://cdn.dummyjson.com/products/images/sports-accessories/Basketball/1.png"
+			}
+		],
+		"category": "sports-accessories",
+		"seller": "",
+		"stock": 100,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Basketball Rim",
+		"price": 39.99,
+		"description": "The Basketball Rim is a sturdy hoop and net assembly mounted on a basketball backboard. It provides a target for shooting and scoring in the game of basketball.",
+		"ratings": 4.98,
+		"images": [
+			{
+				"public_id": "lylwg076p72v4",
+				"url": "https://cdn.dummyjson.com/products/images/sports-accessories/Basketball%20Rim/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg0764b8bu",
+				"url": "https://cdn.dummyjson.com/products/images/sports-accessories/Basketball%20Rim/1.png"
+			}
+		],
+		"category": "sports-accessories",
+		"seller": "",
+		"stock": 57,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Cricket Ball",
+		"price": 12.99,
+		"description": "The Cricket Ball is a hard leather ball used in the sport of cricket. It is bowled and batted in the game, and its hardness and seam contribute to the dynamics of cricket play.",
+		"ratings": 4.43,
+		"images": [
+			{
+				"public_id": "lylwg076kxpud",
+				"url": "https://cdn.dummyjson.com/products/images/sports-accessories/Cricket%20Ball/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg076ismqg",
+				"url": "https://cdn.dummyjson.com/products/images/sports-accessories/Cricket%20Ball/1.png"
+			}
+		],
+		"category": "sports-accessories",
+		"seller": "",
+		"stock": 42,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Cricket Bat",
+		"price": 29.99,
+		"description": "The Cricket Bat is an essential piece of cricket equipment used by batsmen to hit the cricket ball. It is made of wood and comes in various sizes and designs.",
+		"ratings": 3.07,
+		"images": [
+			{
+				"public_id": "lylwg076pwbe3",
+				"url": "https://cdn.dummyjson.com/products/images/sports-accessories/Cricket%20Bat/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg0764l9g4",
+				"url": "https://cdn.dummyjson.com/products/images/sports-accessories/Cricket%20Bat/1.png"
+			}
+		],
+		"category": "sports-accessories",
+		"seller": "",
+		"stock": 3,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Cricket Helmet",
+		"price": 44.99,
+		"description": "The Cricket Helmet is a protective headgear worn by cricket players, especially batsmen and wicketkeepers. It provides protection against fast bowling and bouncers.",
+		"ratings": 3.34,
+		"images": [
+			{
+				"public_id": "lylwg076t3acb",
+				"url": "https://cdn.dummyjson.com/products/images/sports-accessories/Cricket%20Helmet/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg076jf6ba",
+				"url": "https://cdn.dummyjson.com/products/images/sports-accessories/Cricket%20Helmet/1.png"
+			},
+			{
+				"public_id": "lylwg07681ebi",
+				"url": "https://cdn.dummyjson.com/products/images/sports-accessories/Cricket%20Helmet/2.png"
+			},
+			{
+				"public_id": "lylwg076hdy2x",
+				"url": "https://cdn.dummyjson.com/products/images/sports-accessories/Cricket%20Helmet/3.png"
+			},
+			{
+				"public_id": "lylwg076q1trg",
+				"url": "https://cdn.dummyjson.com/products/images/sports-accessories/Cricket%20Helmet/4.png"
+			}
+		],
+		"category": "sports-accessories",
+		"seller": "",
+		"stock": 31,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Cricket Wicket",
+		"price": 29.99,
+		"description": "The Cricket Wicket is a set of three stumps and two bails, forming a wicket used in the sport of cricket. Batsmen aim to protect the wicket while scoring runs.",
+		"ratings": 4.16,
+		"images": [
+			{
+				"public_id": "lylwg076trumk",
+				"url": "https://cdn.dummyjson.com/products/images/sports-accessories/Cricket%20Wicket/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg076zxaxz",
+				"url": "https://cdn.dummyjson.com/products/images/sports-accessories/Cricket%20Wicket/1.png"
+			}
+		],
+		"category": "sports-accessories",
+		"seller": "",
+		"stock": 31,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Feather Shuttlecock",
+		"price": 5.99,
+		"description": "The Feather Shuttlecock is used in the sport of badminton. It features natural feathers and is designed for high-speed play, providing stability and accuracy during matches.",
+		"ratings": 3.95,
+		"images": [
+			{
+				"public_id": "lylwg0769z7fq",
+				"url": "https://cdn.dummyjson.com/products/images/sports-accessories/Feather%20Shuttlecock/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg076z6cn4",
+				"url": "https://cdn.dummyjson.com/products/images/sports-accessories/Feather%20Shuttlecock/1.png"
+			}
+		],
+		"category": "sports-accessories",
+		"seller": "",
+		"stock": 17,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Football",
+		"price": 17.99,
+		"description": "The Football, also known as a soccer ball, is the standard ball used in the sport of football (soccer). It is designed for kicking and passing in the game.",
+		"ratings": 3.94,
+		"images": [
+			{
+				"public_id": "lylwg076m6hsl",
+				"url": "https://cdn.dummyjson.com/products/images/sports-accessories/Football/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg076c4siw",
+				"url": "https://cdn.dummyjson.com/products/images/sports-accessories/Football/1.png"
+			}
+		],
+		"category": "sports-accessories",
+		"seller": "",
+		"stock": 66,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Golf Ball",
+		"price": 9.99,
+		"description": "The Golf Ball is a small ball used in the sport of golf. It features dimples on its surface, providing aerodynamic lift and distance when struck by a golf club.",
+		"ratings": 4.84,
+		"images": [
+			{
+				"public_id": "lylwg0766blk9",
+				"url": "https://cdn.dummyjson.com/products/images/sports-accessories/Golf%20Ball/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg076e8ou1",
+				"url": "https://cdn.dummyjson.com/products/images/sports-accessories/Golf%20Ball/1.png"
+			}
+		],
+		"category": "sports-accessories",
+		"seller": "",
+		"stock": 45,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Iron Golf",
+		"price": 49.99,
+		"description": "The Iron Golf is a type of golf club designed for various golf shots. It features a solid metal head and is used for approach shots, chipping, and other golfing techniques.",
+		"ratings": 4.87,
+		"images": [
+			{
+				"public_id": "lylwg076t3f4q",
+				"url": "https://cdn.dummyjson.com/products/images/sports-accessories/Iron%20Golf/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg076frhgv",
+				"url": "https://cdn.dummyjson.com/products/images/sports-accessories/Iron%20Golf/1.png"
+			}
+		],
+		"category": "sports-accessories",
+		"seller": "",
+		"stock": 7,
+		"numOfReviews": 32,
+		"reviews": []
+	},
+	{
+		"name": "Metal Baseball Bat",
+		"price": 29.99,
+		"description": "The Metal Baseball Bat is a durable and lightweight baseball bat made from metal alloys. It is commonly used in baseball games for hitting and batting practice.",
+		"ratings": 4.11,
+		"images": [
+			{
+				"public_id": "lylwg07621p1n",
+				"url": "https://cdn.dummyjson.com/products/images/sports-accessories/Metal%20Baseball%20Bat/thumbnail.png"
+			},
+			{
+				"public_id": "lylwg076k8w78",
+				"url": "https://cdn.dummyjson.com/products/images/sports-accessories/Metal%20Baseball%20Bat/1.png"
+			}
+		],
+		"category": "sports-accessories",
+		"seller": "",
+		"stock": 37,
+		"numOfReviews": 32,
+		"reviews": []
+	}
+]
